@@ -84,7 +84,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: myf20.github.io # put your disqus shortname
+disqus_shortname: Philex Fan # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections

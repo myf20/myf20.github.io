@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-description: 
-  <p><a href="#">Assistant Professor</a>, Department of Electrical Engineering<p>
-  <p><a href="#">Yu-Jen Scholar</a>, National Cheng Kung University<p>
-  <p><a href="#">Doctor of Philosophy</a>, University of Cambridge<p>
+description: Department of Electrical Engineering, National Cheng Kung University
+#  <p><a href="#">Assistant Professor</a>, Department of Electrical Engineering<p>
+#  <p><a href="#">Yu-Jen Scholar</a>, National Cheng Kung University<p>
+#  <p><a href="#">Doctor of Philosophy</a>, University of Cambridge<p>
 
 profile:
   align: right
