@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 95603, 6F, ChiMei Building</p>
+    <p>No. 1, Daxue Rd., East Dist.</p>
+    <p>701 Tainan City, Taiwan</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
