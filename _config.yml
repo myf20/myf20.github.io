@@ -75,7 +75,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: myf20.github.io  # your blog must have a name for it to show up in the nav bar
+blog_name: Philex Fan  # your blog must have a name for it to show up in the nav bar
 blog_description: A place for Philex Lab members to share research findings with wide research community
 permalink: /blog/:year/:title/
 
