@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#">Assistant Professor</a>. E-mail address z11008001@email.ncku.edu.tw
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Room 95603, 6F, ChiMei Building</p>
+    <p>Room 95603, ChiMei Building</p>
     <p>No. 1, Daxue Rd., East Dist.</p>
     <p>701 Tainan City, Taiwan</p>
 
