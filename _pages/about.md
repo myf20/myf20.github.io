@@ -2,12 +2,13 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Assistant Professor</a>. E-mail address z11008001@email.ncku.edu.tw
+description: <a href="#">Assistant Professor</a>, Department of Electrical Engineering
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
+    z11008001@email.ncku.edu.tw
     <p>Room 95603, ChiMei Building</p>
     <p>No. 1, Daxue Rd., East Dist.</p>
     <p>701 Tainan City, Taiwan</p>
