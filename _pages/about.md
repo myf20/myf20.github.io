@@ -4,13 +4,13 @@ title: about
 permalink: /
 description: 
   <a href="#">Assistant Professor</a>
-  Department of Electrical Engineering
-  National Cheng Kung University
+  <p>Department of Electrical Engineering<p>
+  <p>National Cheng Kung University<p>
 
-  <a href="#">Yu-Jen Scholar</a>
+  <p><a href="#">Yu-Jen Scholar</a><p>
 
-  <a href="#">Doctor of Philosophy</a>
-  University of Cambridge
+  <p><a href="#">Doctor of Philosophy</a><p>
+  <p>University of Cambridge<p>
 
 profile:
   align: right
