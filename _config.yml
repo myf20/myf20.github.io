@@ -75,16 +75,16 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog - change to people 
 # -----------------------------------------------------------------------------
 
-blog_name: People  # your blog must have a name for it to show up in the nav bar
-blog_description: A place for Lab members to share research topics and findings with wide research community
+blog_name: Blog  # your blog must have a name for it to show up in the nav bar
+blog_description: A place for Lab members to share research findings with wide research community
 # permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 # Comments
-disqus_shortname: People # put your disqus shortname
+disqus_shortname: Blog # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -174,7 +174,7 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_mansory:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
