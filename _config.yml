@@ -72,19 +72,19 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
-# Blog
+# Blog - change to people 
 # -----------------------------------------------------------------------------
 
-blog_name: Research  # your blog must have a name for it to show up in the nav bar
+blog_name: People  # your blog must have a name for it to show up in the nav bar
 blog_description: A place for Lab members to share research topics and findings with wide research community
-permalink: /blog/:year/:title/
+# permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
   enabled: true
 
 # Comments
-disqus_shortname: Philex Fan # put your disqus shortname
+disqus_shortname: People # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
