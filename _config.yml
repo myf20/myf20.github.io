@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Philex Lab # the website title (if blank, full name will be used instead)
 first_name: Philex
 middle_name: M.-Y.
 last_name: Fan
@@ -75,8 +75,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Philex Fan  # your blog must have a name for it to show up in the nav bar
-blog_description: A place for Philex Lab members to share research findings with wide research community
+blog_name: Research  # your blog must have a name for it to show up in the nav bar
+blog_description: A place for Lab members to share research topics and findings with wide research community
 permalink: /blog/:year/:title/
 
 # Pagination
