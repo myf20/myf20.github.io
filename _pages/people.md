@@ -1,11 +1,9 @@
 ---
 layout: about
-title: about
-permalink: /
-description: <a href="#">Department of Electrical Engineering, National Cheng Kung University</a>
-#  <p><a href="#">Assistant Professor</a>, Department of Electrical Engineering<p>
-#  <p><a href="#">Yu-Jen Scholar</a>, National Cheng Kung University<p>
-#  <p><a href="#">Doctor of Philosophy</a>, University of Cambridge<p>
+title: people
+permalink: /people/
+description: Current and graduated students
+nav: true
 
 profile:
   align: right
