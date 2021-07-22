@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Department of Electrical Engineering, National Cheng Kung University
+description: <a href="#">Department of Electrical Engineering, National Cheng Kung University</a>
 #  <p><a href="#">Assistant Professor</a>, Department of Electrical Engineering<p>
 #  <p><a href="#">Yu-Jen Scholar</a>, National Cheng Kung University<p>
 #  <p><a href="#">Doctor of Philosophy</a>, University of Cambridge<p>
@@ -11,6 +11,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
+    Yu-Jen Scholar
     z11008001@email.ncku.edu.tw
     <p>Room 95603, ChiMei Building</p>
     <p>No. 1, Daxue Rd., East Dist.</p>
@@ -20,6 +21,8 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+Welcome to Philex Lab! We are always looking for talented PhD and Master applicants. If you find one of our research topics interesting, feel free to contact us and apply to our graduate or postgraduate program. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
