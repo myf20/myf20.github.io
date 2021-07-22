@@ -12,10 +12,10 @@ profile:
   image: prof_pic.jpg
   address: >
     <a href="#">Philex Ming-Yan Fan</a>
-    Principle Investigator, Lab 604
-    Assistant Professor, NCKU
-    Yu-Jen Scholar, NCKU
-    z11008001@email.ncku.edu.tw
+    <p>Principle Investigator, Lab 604</p>
+    <p>Assistant Professor, NCKU</p>
+    <p>Yu-Jen Scholar, NCKU</p>
+    <p>z11008001@email.ncku.edu.tw</p>
     <p>Room 95603, ChiMei Building</p>
     <p>No. 1, Daxue Rd., East Dist.</p>
     <p>701 Tainan City, Taiwan</p>

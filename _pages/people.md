@@ -2,28 +2,56 @@
 layout: about
 title: people
 permalink: /people/
-description: Current and graduated students
+description: Lab members
 nav: true
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  address: >
-    Yu-Jen Scholar
-    z11008001@email.ncku.edu.tw
-    <p>Room 95603, ChiMei Building</p>
-    <p>No. 1, Daxue Rd., East Dist.</p>
-    <p>701 Tainan City, Taiwan</p>
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+display_categories: [current_MS, current_PhD, alumni, undergrad, researcher]
+horizontal: false
 ---
+<div class="projects">
+  {% if site.enable_project_categories and page.display_categories %}
+  <!-- Display categorized projects -->
+    {% for category in page.display_categories %}
+      <h2 class="category">{{category}}</h2>
+      {% assign categorized_projects = site.projects | where: "category", category %}
+      {% assign sorted_projects = categorized_projects | sort: "importance" %}
+      <!-- Generate cards for each project -->
+      {% if page.horizontal %}
+        <div class="container">
+          <div class="row row-cols-2">
+          {% for project in sorted_projects %}
+            {% include projects_horizontal.html %}
+          {% endfor %}
+          </div>
+        </div>
+      {% else %}
+        <div class="grid">
+          {% for project in sorted_projects %}
+            {% include projects.html %}
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endfor %}
 
-Welcome to Philex Lab! We are always looking for talented PhD and Master applicants. If you find one of our research topics interesting, feel free to contact us and apply to our graduate or postgraduate program. 
+  {% else %}
+  <!-- Display projects without categories -->
+    {% assign sorted_projects = site.projects | sort: "importance" %}
+    <!-- Generate cards for each project -->
+    {% if page.horizontal %}
+      <div class="container">
+        <div class="row row-cols-2">
+        {% for project in sorted_projects %}
+          {% include projects_horizontal.html %}
+        {% endfor %}
+        </div>
+      </div>
+    {% else %}
+      <div class="grid">
+        {% for project in sorted_projects %}
+          {% include projects.html %}
+        {% endfor %}
+      </div>
+    {% endif %}
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+  {% endif %}
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+</div>
