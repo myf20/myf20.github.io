@@ -2,7 +2,7 @@
 layout: post
 title: current M.S. and Ph.D. student
 date: 2021-07-22 14:14:00-0400
-description: <p>陳義夫</p> <p>陳柏瑞</p>
+description:
 ---
 
 A sample blog page that demonstrates the accessing of github meta data.
