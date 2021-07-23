@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: a project with a background image
-img: /people/img/sample.jpg
+img: /_people/img/sample.jpg
 importance: 1
 category: MS
 ---
