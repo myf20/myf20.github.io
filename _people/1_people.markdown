@@ -4,7 +4,7 @@ title: project 1
 description: a project with a background image
 img: /people/img/sample.jpg
 importance: 1
-category: M.S.
+category: MS
 ---
 
 Every project has a beautiful feature showcase page.
