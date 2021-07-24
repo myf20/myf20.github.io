@@ -1,7 +1,7 @@
 ---
 layout: page
 title: sample person
-description: Lab member
+description: 2021-present
 img: /assets/img/sample.jpg
 importance: 1
 category: Current MS student
