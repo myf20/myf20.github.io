@@ -1,7 +1,7 @@
 ---
 layout: page
 title: sample member 範本
-description: a project with a background image
+description: Lab member
 img: /assets/img/sample.jpg
 importance: 1
 category: Current MS student
@@ -49,10 +49,10 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
