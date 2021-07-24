@@ -1,6 +1,6 @@
 ---
 layout: page
-title: people
+title: people1
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
