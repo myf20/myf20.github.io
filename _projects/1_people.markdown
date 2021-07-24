@@ -12,16 +12,15 @@ category: Current MS student
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/sample.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
 <a href="#"> Name </a>
+
+XXX
 
 <a href="#"> Contact Information: </a>
 
 Room 95604, ChiMei Building, No. 1, Daxue Rd., East Dist., 701 Tainan City, Taiwan
-[Eemail](z11008001@email.ncku.edu.tw){:target="\_blank"} 
+Email: 
 
 <a href="#"> Research Interest: </a>
 
