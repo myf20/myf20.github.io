@@ -2,9 +2,9 @@
 layout: page
 title: people
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Lab members
 nav: true
-display_categories: [Current MS student, work, fun]
+display_categories: [Current MS student]
 horizontal: false
 ---
 <div class="projects">
