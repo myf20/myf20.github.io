@@ -16,17 +16,17 @@ category: Current MS student
     This image can also have a caption. It's like magic.
 </div>
 
-    <Name>
+<a href="#"> Name </a>
 
-    Contact Information:
+<a href="#"> Contact Information: </a>
 
-<a href="#">Room 95604, ChiMei Building, No. 1, Daxue Rd., East Dist., 701 Tainan City, Taiwan</a>
-E-email: 
+Room 95604, ChiMei Building, No. 1, Daxue Rd., East Dist., 701 Tainan City, Taiwan
+[Eemail](z11008001@email.ncku.edu.tw){:target="\_blank"} 
 
-    Research Interest:
+<a href="#"> Research Interest: </a>
 
 Low-power analog and mixed-signal integrated circuits for Internet-of-Things (IoT)
 
-    Current Research:
+<a href="#"> Current Research: </a>
 
 My research is focused on developing.... 
