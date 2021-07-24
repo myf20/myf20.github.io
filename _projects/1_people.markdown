@@ -35,7 +35,7 @@ To give your project a background in the portfolio page, just add the img tag to
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
