@@ -1,6 +1,6 @@
 ---
 layout: page
-title: sample member
+title: sample member 範本
 description: a project with a background image
 img: /assets/img/sample.jpg
 importance: 1
