@@ -1,7 +1,7 @@
 ---
 layout: page
 title: people
-permalink: /people/
+permalink: /projects/
 description: Lab members
 nav: true
 display_categories: [MS]
