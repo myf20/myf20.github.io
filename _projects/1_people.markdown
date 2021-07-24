@@ -8,7 +8,7 @@ category: Current MS student
 ---
 
 <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-10 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/sample.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
@@ -25,5 +25,8 @@ E-email:
 
     Research Interest:
 
+Low-power analog and mixed-signal integrated circuits for Internet-of-Things (IoT)
+
     Current Research:
 
+My research is focused on developing.... 
