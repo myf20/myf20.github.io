@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description: Instructed by Philex Fan
 nav: true
 ---
 

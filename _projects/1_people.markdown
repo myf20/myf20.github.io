@@ -17,7 +17,7 @@ category: Current Master student
 
 <a href="#"> Contact Information: </a>
 
-<p>Room 95604, ChiMei Building, No. 1, Daxue Rd., East Dist., 701 Tainan City, Taiwan</p>
+<p>Room 95604, ChiMei Building, 1, University Rd., East Dist., 701 Tainan City, Taiwan</p>
 Email: 
 
 <a href="#"> Research Interest: </a>

@@ -2,7 +2,7 @@
 layout: page
 permalink: /honor/
 title: award & honor
-description: Awards & Honors
+description:
 nav: true
 ---
 
