@@ -8,7 +8,7 @@ category: Current Master student
 ---
 
 <div class="row">
-    <div class="col-sm-10 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/sample_person1.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
