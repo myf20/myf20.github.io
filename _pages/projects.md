@@ -2,7 +2,7 @@
 layout: page
 title: people
 permalink: /projects/
-description: Lab members
+description:
 nav: true
 display_categories: [Current Master student]
 horizontal: false
