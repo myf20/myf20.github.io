@@ -15,6 +15,8 @@ nav: true
 
 <a href="#"> ELECTRONICS CIRCUIT LABORATORY (2), 電子電路實驗二, Course No: E2-109 & E2-133 </a>
 
-<p>Fall 2021, 12 & 15 people, 3rd-year undergrad</p>, <a href="http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0110&sem=1&co_no=E222220&class_code=1B" target="blank">Syllabus</a></p> for E2-109 and <a href="http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0110&sem=1&co_no=E222220&class_code=3B" target="blank">Syllabus</a></p> for E2-133
+<p>Fall 2021, 12 people, 3rd-year undergrad, <a href="http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0110&sem=1&co_no=E222220&class_code=1B" target="blank">Syllabus</a></p>
+
+<p>Fall 2021, 15 people, 3rd-year undergrad, <a href="http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0110&sem=1&co_no=E222220&class_code=3B" target="blank">Syllabus</a></p>
 
 <p>  </p>
