@@ -13,7 +13,7 @@ category: Current Master student
     </div>
 </div>
 
-<a href="#"> Name </a> Philex Fan 范銘彥
+<a href="#"> Name: </a> Philex Fan 范銘彥
 
 <a href="#"> Contact Information: </a>
 
