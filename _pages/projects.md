@@ -4,7 +4,7 @@ title: people
 permalink: /projects/
 description: Lab members
 nav: true
-display_categories: [Current MS student]
+display_categories: [Current Master student]
 horizontal: false
 ---
 <div class="projects">

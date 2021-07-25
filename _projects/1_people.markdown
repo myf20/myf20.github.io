@@ -2,20 +2,20 @@
 layout: page
 title: sample person
 description: 2021-present
-img: /assets/img/sample.jpg
+img: /assets/img/sample_person.jpg
 importance: 1
-category: Current MS student
+category: Current Master student
 ---
 
 <div class="row">
     <div class="col-sm-2 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/sample.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/sample_person.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 
 <a href="#"> Name </a>
 
-XXX
+Philex Fan 范銘彥
 
 <a href="#"> Contact Information: </a>
 
