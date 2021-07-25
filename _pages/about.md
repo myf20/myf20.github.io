@@ -14,11 +14,10 @@ profile:
     <a href="#">Philex Fan</a>
     <p>Assistant Professor</p>
     <p>Yu-Jen Scholar</p>
-    <p> </p>
     <p>z11008001@email.ncku.edu.tw</p>
     <p>Room 95603, ChiMei Building</p>
-    <p>No. 1, Daxue Rd., East Dist.</p>
-    <p>701 Tainan City, Taiwan</p>
+    <p>1, University Rd., East Dist.</p>
+    <p>Tainan City 701, Taiwan</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
