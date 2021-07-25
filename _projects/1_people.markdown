@@ -13,18 +13,18 @@ category: Current Master student
     </div>
 </div>
 
-#### <a href="#"> Name: </a> 
+<a href="#"> Name: </a> 
 Philex Fan 范銘彥
 
-#### <a href="#"> Contact Information: </a>
+<a href="#"> Contact Information: </a>
 
 <p>Room 95604, ChiMei Building, 1, University Rd., East Dist., Tainan City 701, Taiwan</p>
 Email: 
 
-#### <a href="#"> Research Interest: </a>
+<a href="#"> Research Interest: </a>
 
 Low-power analog and mixed-signal integrated circuits for Internet-of-Things (IoT)
 
-#### <a href="#"> Current Research: </a>
+<a href="#"> Current Research: </a>
 
 My research is focused on developing.... 
