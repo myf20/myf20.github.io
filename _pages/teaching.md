@@ -8,7 +8,7 @@ nav: true
 
 <a href="#"> ELECTRIC CIRCUITS (1), English taught, 電路學(一)英文授課, Course No: E2-075 </a>
 
-<p>Fall 2021, 42 people, 2nd-year undergrad</p>
+<p>Fall 2021, 42 people, 2nd-year undergrad <a href="https://www.pinterest.com" target="blank">Pinterest</a></p>
 
 <p>  </p>
 
