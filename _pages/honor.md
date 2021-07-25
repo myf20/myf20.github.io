@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: research
+permalink: /honor/
+title: honor
 description: Research topics
 nav: true
 ---

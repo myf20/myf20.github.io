@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: research
+permalink: /grant/
+title: grant
 description: Research topics
 nav: true
 ---
