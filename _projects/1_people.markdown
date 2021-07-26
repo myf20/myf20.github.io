@@ -18,8 +18,8 @@ Ray Chen 陳柏瑞
 
 <a href="#"> Contact Information: </a>
 
-<p>Room 95604, ChiMei Building, 1, University Rd., East Dist., Tainan City 701, Taiwan</p>
-Email: n26101494@gs.ncku.edu.tw
+<p>Room 95604, ChiMei Building, 1, University Road, East District, Tainan City 701, Taiwan</p>
+n26101494@gs.ncku.edu.tw
 
 <a href="#"> Research Interest: </a>
 
