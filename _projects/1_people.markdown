@@ -1,25 +1,25 @@
 ---
 layout: page
-title: sample person
+title: Ray Chen
 description: 2021-present
-img: /assets/img/sample_person1.jpg
+img: /assets/img/Ray_Chen_2021.jpg
 importance: 1
 category: Current Master student
 ---
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/sample_person1.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Ray_Chen_2021.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 
 <a href="#"> Name: </a> 
-Philex Fan 范銘彥
+Ray Chen 陳柏瑞
 
 <a href="#"> Contact Information: </a>
 
 <p>Room 95604, ChiMei Building, 1, University Rd., East Dist., Tainan City 701, Taiwan</p>
-Email: 
+Email: n26101494@gs.ncku.edu.tw
 
 <a href="#"> Research Interest: </a>
 
