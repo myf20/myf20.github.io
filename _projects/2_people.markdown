@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ray Chen
+title: Chen-An Chen
 description: 2021-present
 img: /assets/img/ChenAn_Chen_2021.jpg
 importance: 1
