@@ -9,7 +9,7 @@ description: <a href="#">Department of Electrical Engineering, National Cheng Ku
 
 profile:
   align: right
-  image: Profile_philex1.jpg
+  image: Profile_philex1.jpeg
   address: >
     <a href="#">Philex Fan</a>
     <p>Assistant Professor</p>
