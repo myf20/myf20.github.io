@@ -13,8 +13,8 @@ profile:
   address: >
     <a href="#">Philex Fan</a>
     <p>Assistant Professor</p>
-    <p>Yushan Youth Scholar</p>
-    <p>Yu-Jen Scholar</p>
+    <p>Yushan Youth Scholar(玉山青年學者)</p>
+    <p>Yu-Jen Scholar(鈺槙青年講座)</p>
     <p>Room 95603, ChiMei Building</p>
     <p>1, University Rd., East Dist.</p>
     <p>Tainan City 701, Taiwan</p>
