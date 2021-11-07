@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 description: <a href="#">Department of Electrical Engineering, National Cheng Kung University</a>
-  <p><a href="#">Miin Wu School of Computing</a><p>
-  <p><a href="#">Academy of Innovative Semiconductor and Sustainable Manufacturing</a><p>
+  <p><a href="#">Miin Wu School of Computing, National Cheng Kung University</a><p>
+  <p><a href="#">Academy of Innovative Semiconductor and Sustainable Manufacturing, National Cheng Kung University</a><p>
 #  <p><a href="#">Yu-Jen Scholar</a>, National Cheng Kung University<p>
 #  <p><a href="#">Doctor of Philosophy</a>, University of Cambridge<p>
 
@@ -14,8 +14,8 @@ profile:
   address: >
     <a href="#">Philex Fan</a>
     <p>Assistant Professor</p>
-    <p>Yushan Youth Scholar(玉山青年學者)</p>
-    <p>Yu-Jen Scholar(鈺槙青年講座)</p>
+    <p>Yushan Youth Scholar</p>
+    <p>Yu-Jen Scholar</p>
     <p>Room 95603, ChiMei Building</p>
     <p>1, University Rd., East Dist.</p>
     <p>Tainan City 701, Taiwan</p>
