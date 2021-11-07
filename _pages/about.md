@@ -3,7 +3,8 @@ layout: about
 title: about
 permalink: /
 description: <a href="#">Department of Electrical Engineering, National Cheng Kung University</a>
-#  <p><a href="#">Assistant Professor</a>, Department of Electrical Engineering<p>
+  <p><a href="#">Miin Wu School of Computing</a><p>
+  <p><a href="#">Academy of Innovative Semiconductor and Sustainable Manufacturing</a><p>
 #  <p><a href="#">Yu-Jen Scholar</a>, National Cheng Kung University<p>
 #  <p><a href="#">Doctor of Philosophy</a>, University of Cambridge<p>
 
