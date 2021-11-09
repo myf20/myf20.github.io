@@ -18,7 +18,7 @@ Hui-Chiao Chen 陳輝交
 
 <a href="#"> Contact Information: </a>
 
-<p>Room 95604, ChiMei Building, 1, University Road, East District, Tainan City 701, Taiwan</p>
+<p>Room 95604, ChiMei Building, 1 University Road, East District, Tainan City 701, Taiwan</p>
 n26101575@gs.ncku.edu.tw
 
 <a href="#"> Research Interest: </a>

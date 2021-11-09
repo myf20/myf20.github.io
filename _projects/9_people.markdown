@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yang Lee
+title: Young Lee
 description: 2021-present
 img: /assets/img/Yang_Lee_2021.jpg
 importance: 1
@@ -14,12 +14,12 @@ category: Current undergrad student
 </div>
 
 <a href="#"> Name: </a> 
-Yang Lee 李陽
+Young Lee 李陽
 
 <a href="#"> Contact Information: </a>
 
-<p>Room 95604, ChiMei Building, 1, University Road, East District, Tainan City 701, Taiwan</p>
-e24804012@gs.ncku.edu.tw
+<p>Room 95604, ChiMei Building, 1 University Road, East District, Tainan City 701, Taiwan</p>
+e24084012@gs.ncku.edu.tw
 
 <a href="#"> Research Interest: </a>
 

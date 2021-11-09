@@ -17,7 +17,7 @@ profile:
     <p>Yushan Youth Scholar</p>
     <p>Yu-Jen Scholar</p>
     <p>Room 95603, ChiMei Building</p>
-    <p>1, University Rd., East Dist.</p>
+    <p>1 University Rd., East Dist.</p>
     <p>Tainan City 701, Taiwan</p>
 
 news: true  # includes a list of news items
