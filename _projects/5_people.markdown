@@ -19,11 +19,10 @@ Chih-yen Chang 張智彥
 <a href="#"> Contact Information: </a>
 
 <p>Room 95604, ChiMei Building, 1 University Road, East District, Tainan City 701, Taiwan</p>
-n26100016@gs.ncku.edu.tw
 
 <a href="#"> Research Interest: </a>
 
-Low-power analog and mixed-signal integrated circuits for Internet-of-Things (IoT)
+NAND flash based computing-in-memory architecture
 
 <a href="#"> Current Research: </a>
 

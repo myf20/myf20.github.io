@@ -19,11 +19,10 @@ Chen-An Chen 陳程安
 <a href="#"> Contact Information: </a>
 
 <p>Room 95604, ChiMei Building, 1, University Road, East District, Tainan City 701, Taiwan</p>
-n26101567@ncku.edu.tw 
 
 <a href="#"> Research Interest: </a>
 
-Low-power analog and mixed-signal integrated circuits for Internet-of-Things (IoT)
+One-time programmable (OTP) electrical fuse for hardware security
 
 <a href="#"> Current Research: </a>
 

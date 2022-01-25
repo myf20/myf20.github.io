@@ -19,11 +19,10 @@ Ray Chen 陳柏瑞
 <a href="#"> Contact Information: </a>
 
 <p>Room 95604, ChiMei Building, 1, University Road, East District, Tainan City 701, Taiwan</p>
-n26101494@gs.ncku.edu.tw
 
 <a href="#"> Research Interest: </a>
 
-Low-power analog and mixed-signal integrated circuits for Internet-of-Things (IoT)
+Low-power single-inductor multi-output buck converter for Internet-of-Things (IoT) and edge-computing
 
 <a href="#"> Current Research: </a>
 
