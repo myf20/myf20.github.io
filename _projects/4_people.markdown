@@ -22,8 +22,4 @@ Wei-Ting Lin 林威廷
 
 <a href="#"> Research Interest: </a>
 
-Low-Power Serdes Transmitter for USB 4
-
-<a href="#"> Current Research: </a>
-
-My research is focused on developing.... 
+Low-Power Serdes Transmitter for USB 4 

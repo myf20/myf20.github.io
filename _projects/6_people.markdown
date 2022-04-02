@@ -23,7 +23,3 @@ Hui-Chiao Chen 陳輝交
 <a href="#"> Research Interest: </a>
 
 One-time programmable (OTP) electrical fuse for hardware security
-
-<a href="#"> Current Research: </a>
-
-My research is focused on developing.... 

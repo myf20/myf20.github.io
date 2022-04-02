@@ -23,7 +23,3 @@ Chih-yen Chang 張智彥
 <a href="#"> Research Interest: </a>
 
 NAND flash based computing-in-memory architecture
-
-<a href="#"> Current Research: </a>
-
-My research is focused on developing.... 

@@ -22,8 +22,4 @@ Ray Chen 陳柏瑞
 
 <a href="#"> Research Interest: </a>
 
-Low-power single-inductor multi-output buck converter for Internet-of-Things (IoT) and edge-computing
-
-<a href="#"> Current Research: </a>
-
-My research is focused on developing.... 
+Low-power single-inductor multi-output (SIMO) buck converter for Internet-of-Things (IoT) and edge-computing
