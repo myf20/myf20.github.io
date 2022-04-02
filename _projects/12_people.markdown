@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hua-Hsiang Hung
-description: 2021-present
+description: 2022-present
 img: /assets/img/HuaHsiang_Hung_2022.jpg
 importance: 1
 category: Current Master student

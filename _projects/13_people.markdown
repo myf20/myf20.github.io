@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chih-Hao Wang
-description: 2021-present
+description: 2022-present
 img: /assets/img/Chih-Hao_Wang_2022.jpg
 importance: 1
 category: Current Master student

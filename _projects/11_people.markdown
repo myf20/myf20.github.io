@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yu-Ting Chiu
-description: 2021-present
+description: 2022-present
 img: /assets/img/YuTing_Chiu_2022.jpg
 importance: 1
 category: Current Master student
