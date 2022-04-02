@@ -19,7 +19,6 @@ Regina Kuo 郭佩穎
 <a href="#"> Contact Information: </a>
 
 <p>Room 95604, ChiMei Building, 1 University Road, East District, Tainan City 701, Taiwan</p>
-e24086153@gs.ncku.edu.tw
 
 <a href="#"> Research Interest: </a>
 
