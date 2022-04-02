@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: research topics
 description:
 nav: true
 ---
@@ -20,7 +20,7 @@ nav: true
 <a href="#"> Non-volatile Memory</a>
 
 <ul>
-    <li> <p>One-time-programmable memory for Chip ID and hardware security</p> </li>
+    <li> <p>One-time-programmable memory for chip ID and hardware security</p> </li>
     <li> <p>Nand flash based computing-in-memory</p> </li>
 </ul> 
 
