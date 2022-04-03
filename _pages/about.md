@@ -25,7 +25,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-「頂尖的人才工作機會多，除了薪資，會選擇去一個美麗、迷人且宜居的城市工作。飛越劍橋、愛丁堡、倫敦、巴黎、布達佩斯、柏林、布拉格、羅馬、維也納、布魯塞爾、鹿特丹、里斯本與巴賽隆納，發現台南府城是一個迷人且適宜的地方。」
+「頂尖的人才工作機會多，除了薪資，會選擇去一個美麗、迷人且宜居的城市工作。飛越劍橋、愛丁堡、倫敦、巴黎、柏林、羅馬、維也納、里斯本與巴賽隆納，發現台南府城是一個迷人且適宜的地方。」
 
 Welcome to Lab 604 (a.k.a. Philex Lab)! We are always looking for talented applicants pursuing the Ph.D. or Master degree. If you find one of our research topics interesting, feel free to contact us and apply to our graduate or postgraduate program. 
 
