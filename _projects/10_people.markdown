@@ -4,7 +4,7 @@ title: Regina Kuo
 description: 2021-present
 img: /assets/img/Regina_Kuo_2021.jpg
 importance: 1
-category: Current undergrad student
+category: Current Master student
 ---
 
 <div class="row">
@@ -22,8 +22,4 @@ Regina Kuo 郭佩穎
 
 <a href="#"> Research Interest: </a>
 
-TBD
-
-<a href="#"> Current Research: </a>
-
-My research is focused on the understanding of Cs atomic clock which widely involves physics, laser, and microelectronics.
+Cs atomic clock

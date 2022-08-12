@@ -23,7 +23,3 @@ Chao-Shan Tsou 鄒兆珅
 <a href="#"> Research Interest: </a>
 
 TBD
-
-<a href="#"> Current Research: </a>
-
-My research is focused on fundamental analog circuits.

@@ -23,7 +23,3 @@ Young Lee 李陽
 <a href="#"> Research Interest: </a>
 
 TBD
-
-<a href="#"> Current Research: </a>
-
-My research is focused on fundamental analog circuits.

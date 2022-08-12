@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Hua-Hsiang Hung
+title: Ming-Feng Yang
 description: 2022-present
-img: /assets/img/HuaHsiang_Hung_2022.jpg
+img: /assets/img/KunHan_Chan_2022.jpg
 importance: 1
 category: Current Master student
 ---
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/HuaHsiang_Hung_2022.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/KunHan_Chan_2022.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 
 <a href="#"> Name: </a> 
-Hua-Hsiang Hung 洪華襄
+Kun-Han Chan 詹昆翰
 
 <a href="#"> Contact Information: </a>
 
@@ -22,4 +22,4 @@ Hua-Hsiang Hung 洪華襄
 
 <a href="#"> Research Interest: </a>
 
-TBD
+Adaptive equalizer for Serdes receiver 
