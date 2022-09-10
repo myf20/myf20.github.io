@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Regina Kuo
-description: 2021-present
+description: 2022-present
 img: /assets/img/Regina_Kuo_2021.jpg
 importance: 1
 category: Current Master student
