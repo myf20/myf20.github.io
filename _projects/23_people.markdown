@@ -4,7 +4,7 @@ title: Shih-Chang Ma
 description: 2022-present
 img: /assets/img/ChinWei_Cheng_2022.jpg
 importance: 1
-category: Current Master student
+category: Current undergrad student
 ---
 
 <div class="row">
