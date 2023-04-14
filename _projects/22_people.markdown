@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Shih-Chang Ma
-description: 2022-present
+description: 2022
 img: /assets/img/ShihChang_Ma_2022.jpg
 importance: 1
-category: Current undergrad student
+category: Alumni
 ---
 
 <div class="row">

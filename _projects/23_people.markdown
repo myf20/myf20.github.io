@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Chin-Wei Cheng
-description: 2022-present
+description: 2022
 img: /assets/img/ChinWei_Cheng_2022.jpg
 importance: 1
-category: Current undergrad student
+category: Alumni
 ---
 
 <div class="row">
