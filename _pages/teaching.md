@@ -10,6 +10,7 @@ nav: true
 
 <ul>
     <li> <p>Spring 2022, 70 people, 2nd-year undergrad, <a href="http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0110&sem=2&co_no=E227020&class_code=3" target="blank">Syllabus</a></p> </li>
+    <li> <p>Spring 2023, 70 people, 2nd-year undergrad, <a href="http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0110&sem=2&co_no=E227020&class_code=3" target="blank">Syllabus</a></p> </li>
 </ul>
 
 
