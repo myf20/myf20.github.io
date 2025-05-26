@@ -13,7 +13,10 @@ nav: true
     <h2 class="year">{{ group.name }}</h2>
     {% for paper in group.items %}
       <div class="paper">
-        <span class="label">{{ paper.type }}</span>
+        <!--<span class="label">{{ paper.type }}</span>-->
+        {% if paper.type %}
+          <span class="pub-type">{{ paper.type }}</span>
+        {% endif %}
         <p>
           <strong>{{ paper.title }}</strong><br>
           {{ paper.authors }}<br>
