@@ -1,20 +1,31 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: corresponding author is marked by *
-years: [2021, 2020, 2019, 2018, 2017, 2015, 2013, 2012, 2011, 2010]
+title: Publications
+description: List of selected publications
 nav: true
 ---
 
 <div class="publications">
+  {% assign pubs = site.data.publications | group_by: "year" | sort: "name" | reverse %}
 
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% comment %}
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-  {% endcomment %}
-  <p>(Publications for {{y}} would be shown here.)</p>
-{% endfor %}
-
+  {% for group in pubs %}
+    <h2 class="year">{{ group.name }}</h2>
+    {% for paper in group.items %}
+      <div class="paper">
+        <span class="label">{{ paper.type }}</span>
+        <p>
+          <strong>{{ paper.title }}</strong><br>
+          {{ paper.authors }}<br>
+          <em>{{ paper.conference }}</em><br>
+          {% if paper.abstract %}
+            <details><summary>Abstract</summary><p>{{ paper.abstract }}</p></details>
+          {% endif %}
+          {% if paper.pdf %}<a href="{{ paper.pdf }}" target="_blank">[PDF]</a>{% endif %}
+          {% if paper.html %} <a href="{{ paper.html }}" target="_blank">[HTML]</a>{% endif %}
+          {% if paper.doi %} <a href="https://doi.org/{{ paper.doi }}" target="_blank">[DOI]</a>{% endif %}
+        </p>
+      </div>
+    {% endfor %}
+  {% endfor %}
 </div>
