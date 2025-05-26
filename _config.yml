@@ -138,8 +138,6 @@ plugins:
   - jekyll-github-metadata
   - jekyll-feed
   - jekyll-paginate-v2
-  - jekyll/scholar
-  - jekyll-twitter-plugin
   - jemoji
 
 # Extras
