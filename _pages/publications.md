@@ -17,6 +17,7 @@ nav: true
         {% if paper.type %}
           <span class="pub-type">{{ paper.type }}</span>
         {% endif %}
+        <!--<span class="label">{{ paper.type }}</span>-->
         <p>
           <strong>{{ paper.title }}</strong><br>
           {{ paper.authors }}<br>
