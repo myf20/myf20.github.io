@@ -2,7 +2,7 @@
 layout: page
 title: CHING-CHIEH WANG
 description: 2024-present
-img: /assets/img/2024-CHING-CHIEH WANG.jpg
+img: /assets/img/2024_CHING_CHIEH_WANG.jpg
 importance: 1
 category: Current Master student
 ---
@@ -12,6 +12,7 @@ category: Current Master student
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2024_CHING_CHIEH_WANG.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
+
 
 <a href="#"> Name: </a> 
 CHING_CHIEH WANG 王靖捷
