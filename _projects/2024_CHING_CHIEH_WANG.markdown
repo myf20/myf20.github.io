@@ -22,4 +22,4 @@ CHING_CHIEH WANG 王靖捷
 
 <a href="#"> Research Interest: </a>
 
-SBD
+SerDes team

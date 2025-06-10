@@ -23,4 +23,4 @@ CHAO_SHAN TSOU 鄒兆珅
 
 <a href="#"> Research Interest: </a>2
 
-power
+Power Management IC for SIMO battery charger

@@ -23,4 +23,4 @@ HSIANG_YU KO 柯享宇
 
 <a href="#"> Research Interest: </a>2
 
-efuse
+eFuse Memory
