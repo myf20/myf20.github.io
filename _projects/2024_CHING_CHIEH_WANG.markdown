@@ -9,7 +9,7 @@ category: Current Master student
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ChinWei_Cheng_2022.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '\assets\img\2024_CHING_CHIEH_WANG.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 
