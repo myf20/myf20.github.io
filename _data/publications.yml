@@ -1,3 +1,26 @@
+- key: philex2025tcasi
+  year: 2025
+  title: A 36-Gb/s 1.6-pJ/b PAM-3 Transmitter Leveraging Digital Logic Cells and 4-Tap FFE in 22-nm CMOS
+  authors: '*P. M. -Y. Fan, M. -X. Wang, W. -T. Lin and Y. -C. Liu.'
+  conference: IEEE Transactions on Circuits and Systems I: Regular Papers
+  type: TCAS-I
+  abstract: ''
+  pdf: example_pdf.pdf
+  html: 'https://ieeexplore.ieee.org/document/10777857'
+  doi: '10.1109/TCSI.2024.3509802'
+
+- key: philex2025tcasi
+  year: 2025
+  title: A 1.1 V-Programmable Metal-Fuse Technology With Current-Mode Programming and Program-Guarantee 
+    Technique in 28 nm CMOS Technology
+  authors: '*P. M. -Y. Fan, C. -A. Chen, C. -H. Wang and H. -Y. Ko.'
+  conference: IEEE Transactions on Circuits and Systems I: Regular Papers
+  type: TCAS-I
+  abstract: ''
+  pdf: example_pdf.pdf
+  html: 'https://ieeexplore.ieee.org/document/10735993'
+  doi: '10.1109/TCSI.2024.3447276'
+
 - key: anand2021asscc
   year: 2021
   title: -17dBm Differential Charge Pump EPC Gen2 UHF RFID Demodulator for 9 dB Receive
@@ -7,8 +30,9 @@
   type: ASSCC
   abstract: ''
   pdf: example_pdf.pdf
-  html: ''
-  doi: ''
+  html: 'https://ieeexplore.ieee.org/abstract/document/9634715'
+  doi: '10.1109/A-SSCC53895.2021.9634715'
+
 - key: chou2021vlsi
   year: 2021
   title: A 16Kb Antifuse One-Time-Programmable Memory in 5nm High-K Metal-Gate FinFET
@@ -25,8 +49,9 @@
     (PDS) are implemented to achieve intrinsic bit error rate (BER) below 1ppb for
     in-field programming in 5nm SoC and 10 years of data retention at 125°C.
   pdf: example_pdf.pdf
-  html: ''
-  doi: ''
+  html: 'https://ieeexplore.ieee.org/document/9492438'
+  doi: '10.23919/VLSICircuits52068.2021.9492438'
+
 - key: labbe2020jssc
   year: 2020
   title: A Supply Voltage Control Method for Performance Guaranteed Ultra-Low-Power
