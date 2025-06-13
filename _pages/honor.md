@@ -6,7 +6,11 @@ description:
 nav: true
 ---
 
+
+2024    <a href="#">IEEE Tainan Section Best Young Professional Member Award</a>  IEEE
+2024    <a href="#">CBI 5-year project, 5年晶創計畫</a>  National Science and Technology Council(NSTC), Taiwan
 2021-2026  <a href="#">Yushan Youth Scholar, 玉山青年學者</a>  Ministry of Education, Taiwan
+2021-2024  <a href="#">Academy of Innovative Semiconductor and Sustainable Manufacturing (AISSM), AISSM旺宏延攬學者專家</a>  National Cheng Kung University, Taiwan
 <p>2021-2022  <a href="#">Yu-Jen Scholar, 鈺槙青年講座</a>  National Cheng Kung University, Taiwan</p>
 <p>2017  <a href="#">Elected as U.K. Tomorrow’s Engineers</a></p>
 <p>2016  <a href="#">IET Postgraduate Scholarship</a>  Institution of Engineering and Technology, 5 awards every year</p>
