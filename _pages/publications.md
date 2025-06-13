@@ -27,7 +27,7 @@ nav: true
           {% endif %}
           {% if paper.pdf %}<a href="{{ paper.pdf }}" target="_blank">[PDF]</a>{% endif %}
           {% if paper.html %} <a href="{{ paper.html }}" target="_blank">[HTML]</a>{% endif %}
-          {% if paper.doi %} <a href="https://doi.org/{{ paper.doi }}" target="_blank">[DOI]</a>{% endif %}
+          <!-- {% if paper.doi %} <a href="https://doi.org/{{ paper.doi }}" target="_blank">[DOI]</a>{% endif %} -->
         </p>
       </div>
     {% endfor %}
