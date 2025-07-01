@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Chin-Wei Cheng
-description: 2022-2022
+description: 2022
 img: /assets/img/2022_CHIN_WEI_CHENG.jpg
 importance: 1
-category: Current Master student
+category: Alumi
 ---
 
 <div class="row">

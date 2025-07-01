@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shih-Chang Ma
-description: 2024-present
+description: 2022
 img: /assets/img/2022_SHIH_CHANG_MA.jpg
 importance: 1
 category: Alumni
