@@ -1,6 +1,6 @@
 ---
 layout: page
-title: YU_SHUN CHANG
+title: Yu-Shun Chang
 description: 2025-present
 img: /assets/img/2025_YU_SHUN_CHANG.jpg
 importance: 1
@@ -15,7 +15,7 @@ category: Current Master student
 
 
 <a href="#"> Name: </a> 
-YU_SHUN CHANG 張育順
+Yu-Shun Chang 張育順
 
 <a href="#"> Contact Information: </a>
 
@@ -23,4 +23,4 @@ YU_SHUN CHANG 張育順
 
 <a href="#"> Research Interest: </a>2
 
-SerDes
+SerDes team
