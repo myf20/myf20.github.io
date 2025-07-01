@@ -1,25 +1,26 @@
 ---
 layout: page
-title: Shih Ruei Ma
+title: Bo-Chen Yang
 description: 2022-present
-img: /assets/img/ShihRuei_Ma_2022.jpg
+img: /assets/img/2022_BO_CHEN_YANG.jpg
 importance: 1
 category: Current Master student
 ---
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ShihRuei_Ma_2022.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2022_BO_CHEN_YANG.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 
+
 <a href="#"> Name: </a> 
-Shih Ruei Ma 馬世叡
+Bo-Chen Yang 楊博程
 
 <a href="#"> Contact Information: </a>
 
 <p>Room 95604, ChiMei Building, 1 University Road, East District, Tainan City 701, Taiwan</p>
 
-<a href="#"> Research Interest: </a>
+<a href="#"> Research Interest: </a>2
 
-Non-volatile memory based in-memory computing
+To be determined

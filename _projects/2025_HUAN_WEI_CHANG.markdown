@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HUAN_WEI CHANG
+title: Huan-Wei Chang
 description: 2025-present
 img: /assets/img/2025_HUAN_WEI_CHANG.jpg
 importance: 1
@@ -15,7 +15,7 @@ category: Current Master student
 
 
 <a href="#"> Name: </a> 
-HUAN_WEI CHANG 張桓維
+Huan-Wei Chang 張桓維
 
 <a href="#"> Contact Information: </a>
 

@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Hsiang-Yu Ko
-description: 2024-present
-img: /assets/img/2024_HSIANG_YU_KO.jpg
+title: Kun-Han Chan
+description: 2022-2024
+img: /assets/img/2022_KUN_HAN_CHAN.jpg
 importance: 1
-category: Current Master student
+category: Alumni
 ---
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2024_HSIANG_YU_KO.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2022_KUN_HAN_CHAN.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 
 
 <a href="#"> Name: </a> 
-Hsiang-Yu Ko 柯享宇
+Kun-Han Chan 詹昆翰
 
 <a href="#"> Contact Information: </a>
 
@@ -23,4 +23,4 @@ Hsiang-Yu Ko 柯享宇
 
 <a href="#"> Research Interest: </a>2
 
-eFuse Memory
+Adaptive equalizer for Serdes receiver

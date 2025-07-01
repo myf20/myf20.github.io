@@ -2,16 +2,17 @@
 layout: page
 title: Chih-Hao Wang
 description: 2022-present
-img: /assets/img/Chih-Hao_Wang_2022.jpg
+img: /assets/img/2022_CHIH_HAO_WANG.jpg
 importance: 1
-category: Current Master student
+category: PhD student
 ---
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Chih-Hao_Wang_2022.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2022_CHIH_HAO_WANG.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
+
 
 <a href="#"> Name: </a> 
 Chih-Hao Wang 王至皓
@@ -20,6 +21,6 @@ Chih-Hao Wang 王至皓
 
 <p>Room 95604, ChiMei Building, 1 University Road, East District, Tainan City 701, Taiwan</p>
 
-<a href="#"> Research Interest: </a>
+<a href="#"> Research Interest: </a>2
 
 Fast transient response DC-DC converter

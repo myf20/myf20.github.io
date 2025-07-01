@@ -1,6 +1,6 @@
 ---
 layout: page
-title: THI_THUY NGUYEN
+title: Thi-Thuy Nguyen
 description: 2025-present
 img: /assets/img/2025_THI_THUY_NGUYEN.jpg
 importance: 1
@@ -15,7 +15,7 @@ category: Researcher
 
 
 <a href="#"> Name: </a> 
-THI_THUY NGUYEN 阮式垂
+Thi-Thuy Nguyen 阮式垂
 
 <a href="#"> Contact Information: </a>
 

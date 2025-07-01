@@ -1,17 +1,18 @@
 ---
 layout: page
 title: Chin-Wei Cheng
-description: 2022
-img: /assets/img/ChinWei_Cheng_2022.jpg
+description: 2022-2022
+img: /assets/img/2022_CHIN_WEI_CHENG.jpg
 importance: 1
-category: Alumni
+category: Current Master student
 ---
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ChinWei_Cheng_2022.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2022_CHIN_WEI_CHENG.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
+
 
 <a href="#"> Name: </a> 
 Chin-Wei Cheng 鄭晉偉
@@ -20,6 +21,6 @@ Chin-Wei Cheng 鄭晉偉
 
 <p>Room 95604, ChiMei Building, 1 University Road, East District, Tainan City 701, Taiwan</p>
 
-<a href="#"> Research Interest: </a>
+<a href="#"> Research Interest: </a>2
 
 Power Management IC design

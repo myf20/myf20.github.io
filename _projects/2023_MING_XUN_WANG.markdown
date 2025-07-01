@@ -4,7 +4,7 @@ title: Ming-Xun Wang
 description: 2023-present
 img: /assets/img/2023_MING_XUN_WANG.jpg
 importance: 1
-category: PhD
+category: PhD student
 ---
 
 <div class="row">

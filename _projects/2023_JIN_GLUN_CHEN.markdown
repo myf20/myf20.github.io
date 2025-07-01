@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Kuan-Hung Yeh
+title: Jin-Glun Chen
 description: 2023-present
-img: /assets/img/2023_KUAN_HUNG_YEH.jpg
+img: /assets/img/2023_JIN_GLUN_CHEN.jpg
 importance: 1
 category: Current Master student
 ---
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2023_KUAN_HUNG_YEH.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2023_JIN_GLUN_CHEN.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 
 
 <a href="#"> Name: </a> 
-Kuan-Hung Yeh 葉冠宏
+Jin-Glun Chen 陳靖倫
 
 <a href="#"> Contact Information: </a>
 
@@ -23,4 +23,4 @@ Kuan-Hung Yeh 葉冠宏
 
 <a href="#"> Research Interest: </a>2
 
-2D/3D Human Pose Estimation, Triangulation, System Development and Integration
+MEMS oscillator

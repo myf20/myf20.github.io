@@ -1,17 +1,18 @@
 ---
 layout: page
 title: Shih-Chang Ma
-description: 2022
-img: /assets/img/ShihChang_Ma_2022.jpg
+description: 2024-present
+img: /assets/img/2022_SHIH_CHANG_MA.jpg
 importance: 1
 category: Alumni
 ---
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ShihChang_Ma_2022.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2022_SHIH_CHANG_MA.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
+
 
 <a href="#"> Name: </a> 
 Shih-Chang Ma 馬世常
@@ -20,6 +21,6 @@ Shih-Chang Ma 馬世常
 
 <p>Room 95604, ChiMei Building, 1 University Road, East District, Tainan City 701, Taiwan</p>
 
-<a href="#"> Research Interest: </a>
+<a href="#"> Research Interest: </a>2
 
 Power Management IC design

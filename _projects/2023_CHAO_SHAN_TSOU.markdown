@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CHAO_SHAN TSOU
+title: Chao-Shan Tsou
 description: 2023-present
 img: /assets/img/2023_CHAO_SHAN_TSOU.jpg
 importance: 1
@@ -15,7 +15,7 @@ category: Current Master student
 
 
 <a href="#"> Name: </a> 
-CHAO_SHAN TSOU 鄒兆珅
+Chao-Shan Tsou 鄒兆珅
 
 <a href="#"> Contact Information: </a>
 

@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Hsiang-Yu Ko
-description: 2024-present
-img: /assets/img/2024_HSIANG_YU_KO.jpg
+title: Chih-Cheng Huang
+description: 2022-2025
+img: /assets/img/2022_CHIH_CHENG_HUANG.jpg
 importance: 1
-category: Current Master student
+category: Alumni
 ---
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2024_HSIANG_YU_KO.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2022_CHIH_CHENG_HUANG.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 
 
 <a href="#"> Name: </a> 
-Hsiang-Yu Ko 柯享宇
+Chih-Cheng Huang 黃致程
 
 <a href="#"> Contact Information: </a>
 
@@ -23,4 +23,4 @@ Hsiang-Yu Ko 柯享宇
 
 <a href="#"> Research Interest: </a>2
 
-eFuse Memory
+Wireless power transfer rectifier
