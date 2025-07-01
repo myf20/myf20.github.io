@@ -15,7 +15,7 @@ category: Current Master student
 
 
 <a href="#"> Name: </a> 
-Wei-Hsiang Hung 洪偉翔
+Wei-Hsiang Hung 洪緯翔
 
 <a href="#"> Contact Information: </a>
 
