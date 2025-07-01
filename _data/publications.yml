@@ -1,5 +1,5 @@
-- key: philex2025tcasi
-  year: 2025
+- key: philex2024tcasi
+  year: 2024
   title: 'A 36-Gb/s 1.6-pJ/b PAM-3 Transmitter Leveraging Digital Logic Cells and 4-Tap FFE in 22-nm CMOS'
   authors: '*P. M. -Y. Fan, M. -X. Wang, W. -T. Lin and Y. -C. Liu.'
   conference: 'IEEE Transactions on Circuits and Systems I: Regular Papers'
@@ -8,8 +8,8 @@
   pdf: example_pdf.pdf
   html: 'https://ieeexplore.ieee.org/document/10777857'
   doi: '10.1109/TCSI.2024.3509802'
-- key: philex2025tcasi
-  year: 2025
+- key: philex2024tcasi
+  year: 2024
   title: 'A 1.1 V-Programmable Metal-Fuse Technology With Current-Mode Programming and Program-Guarantee Technique in 28 nm CMOS Technology'
   authors: '*P. M. -Y. Fan, C. -A. Chen, C. -H. Wang and H. -Y. Ko.'
   conference: 'IEEE Transactions on Circuits and Systems I: Regular Papers'
