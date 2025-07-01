@@ -21,6 +21,6 @@ Yu-Kai Huang 黃昱凱
 
 <p>Room 95604, ChiMei Building, 1 University Road, East District, Tainan City 701, Taiwan</p>
 
-<a href="#"> Research Interest: </a>2
+<a href="#"> Research Interest: </a>
 
 To be determined
