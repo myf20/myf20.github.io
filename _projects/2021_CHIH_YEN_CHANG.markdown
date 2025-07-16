@@ -9,7 +9,7 @@ category: Alumni
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/22021_CHIH_YEN_CHANG.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2021_CHIH_YEN_CHANG.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 
