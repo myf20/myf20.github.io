@@ -4,7 +4,7 @@ title: Chih-Hao Wang
 description: 2022-present
 img: /assets/img/2022_CHIH_HAO_WANG.jpg
 importance: 1
-category: PhD student
+category: Current Master student
 ---
 
 <div class="row">
