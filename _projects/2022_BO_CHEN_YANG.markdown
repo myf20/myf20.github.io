@@ -4,7 +4,7 @@ title: Bo-Chen Yang
 description: 2022-present
 img: /assets/img/2022_BO_CHEN_YANG.jpg
 importance: 1
-category: Current Master student
+category: Alumni
 ---
 
 <div class="row">

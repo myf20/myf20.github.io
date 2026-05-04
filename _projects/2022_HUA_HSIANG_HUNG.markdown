@@ -4,7 +4,7 @@ title: Hua-Hsiang Hung
 description: 2022-present
 img: /assets/img/2022_HUA_HSIANG_HUNG.jpg
 importance: 1
-category: Current Master student
+category: Alumni
 ---
 
 <div class="row">

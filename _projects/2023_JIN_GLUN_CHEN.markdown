@@ -4,7 +4,7 @@ title: Jin-Glun Chen
 description: 2023-present
 img: /assets/img/2023_JIN_GLUN_CHEN.jpg
 importance: 1
-category: Current Master student
+category: Alumni
 ---
 
 <div class="row">

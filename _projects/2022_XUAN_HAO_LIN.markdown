@@ -4,7 +4,7 @@ title: Xuan-Hao Lin
 description: 2022-present
 img: /assets/img/2022_XUAN_HAO_LIN.jpg
 importance: 1
-category: Current Master student
+category: Alumni
 ---
 
 <div class="row">

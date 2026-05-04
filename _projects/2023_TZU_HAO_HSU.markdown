@@ -4,7 +4,7 @@ title: Tzu-Hao Hsu
 description: 2023-present
 img: /assets/img/2023_TZU_HAO_HSU.jpg
 importance: 1
-category: Current Master student
+category: Alumni
 ---
 
 <div class="row">

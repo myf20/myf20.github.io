@@ -4,7 +4,7 @@ title: Shih-Ruei Ma
 description: 2022-present
 img: /assets/img/2022_SHIH_RUEI_MA.jpg
 importance: 1
-category: Current Master student
+category: Alumni
 ---
 
 <div class="row">
