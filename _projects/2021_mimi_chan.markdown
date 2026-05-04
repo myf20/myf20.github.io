@@ -14,11 +14,11 @@ category: Staff
 </div>
 
 <a href="#"> Name: </a> 
-Mimi-chan 咪咪醬
+Mi-Chan 咪醬
 
 <a href="#"> Contact Information: </a>
 
 <p>East District, Tainan City 701, Taiwan</p>
-@ michan_bsh at Instagram
+@ michan_mibao at Instagram
 
 <a href="#"> Expertise: </a>
