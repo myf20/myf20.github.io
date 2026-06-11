@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shih-Ruei Ma
-description: 2022-present
+description: 2022-2026
 img: /assets/img/2022_SHIH_RUEI_MA.jpg
 importance: 1
 category: Alumni
