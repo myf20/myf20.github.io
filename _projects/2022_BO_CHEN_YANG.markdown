@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bo-Chen Yang
-description: 2022-present
+description: 2022-2026
 img: /assets/img/2022_BO_CHEN_YANG.jpg
 importance: 1
 category: Alumni
