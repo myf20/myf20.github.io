@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hua-Hsiang Hung
-description: 2022-present
+description: 2022-2025
 img: /assets/img/2022_HUA_HSIANG_HUNG.jpg
 importance: 1
 category: Alumni

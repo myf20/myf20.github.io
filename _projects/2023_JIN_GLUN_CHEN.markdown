@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jin-Glun Chen
-description: 2023-present
+description: 2023-2026
 img: /assets/img/2023_JIN_GLUN_CHEN.jpg
 importance: 1
 category: Alumni
@@ -15,7 +15,7 @@ category: Alumni
 
 
 <a href="#"> Name: </a> 
-Jin-Glun Chen 陳靖倫
+Jing-Lun Chen 陳靖倫
 
 <a href="#"> Contact Information: </a>
 

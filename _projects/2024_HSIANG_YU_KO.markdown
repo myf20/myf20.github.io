@@ -4,7 +4,7 @@ title: Hsiang-Yu Ko
 description: 2024-present
 img: /assets/img/2024_HSIANG_YU_KO.jpg
 importance: 1
-category: Current Master student
+category: Alumni
 ---
 
 <div class="row">

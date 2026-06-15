@@ -1,18 +1,18 @@
 - key: philex2024tcasi
-  year: 2024
+  year: 2025
   title: 'A 36-Gb/s 1.6-pJ/b PAM-3 Transmitter Leveraging Digital Logic Cells and 4-Tap FFE in 22-nm CMOS'
   authors: '*P. M. -Y. Fan, M. -X. Wang, W. -T. Lin and Y. -C. Liu.'
-  conference: 'IEEE Transactions on Circuits and Systems I: Regular Papers'
+  conference: '2025 IEEE Transactions on Circuits and Systems I: Regular Papers'
   type: 'TCAS-I'
   abstract: ''
   pdf: example_pdf.pdf
   html: 'https://ieeexplore.ieee.org/document/10777857'
   doi: '10.1109/TCSI.2024.3509802'
 - key: philex2024tcasi
-  year: 2024
+  year: 2025
   title: 'A 1.1 V-Programmable Metal-Fuse Technology With Current-Mode Programming and Program-Guarantee Technique in 28 nm CMOS Technology'
   authors: '*P. M. -Y. Fan, C. -A. Chen, C. -H. Wang and H. -Y. Ko.'
-  conference: 'IEEE Transactions on Circuits and Systems I: Regular Papers'
+  conference: '2025 IEEE Transactions on Circuits and Systems I: Regular Papers'
   type: 'TCAS-I'
   abstract: ''
   pdf: example_pdf.pdf
@@ -23,7 +23,7 @@
   title: '-17dBm Differential Charge Pump EPC Gen2 UHF RFID Demodulator for 9 dB Receive
     Sensitivity Boost'
   authors: '*Savanth, A. and Fan, P. and Gamage, S. and Achuthan, T. and Garcia, F.'
-  conference: IEEE Asian Solid-State Circuits Conference
+  conference: 2021 IEEE Asian Solid-State Circuits Conference
   type: 'ASSCC'
   abstract: ''
   pdf: example_pdf.pdf
@@ -37,7 +37,7 @@
   authors: '*Chou, S. and Li, G.-H. and Chen, S. and Chang, J.-H. and Cheng, W.-H.
     and Wu, S.-D. and Fan, P. and Huang, C.-E. and Chih, Y.-D. and Wang, Y. and Chang,
     J.'
-  conference: IEEE Symposium on VLSI Circuits
+  conference: 2021 IEEE Symposium on VLSI Circuits
   type: VLSI
   abstract: A 16Kb one-time-programmable (OTP) antifuse memory is fabricated in a
     5nm high-K, metal-gate FinFET CMOS for the first time. The bootstrap high voltage
@@ -48,12 +48,12 @@
   html: 'https://ieeexplore.ieee.org/document/9492438'
   doi: '10.23919/VLSICircuits52068.2021.9492438'
 - key: labbe2020jssc
-  year: 2020
+  year: 2021
   title: A Supply Voltage Control Method for Performance Guaranteed Ultra-Low-Power
     Microcontroller
   authors: '*Labbe, B. and Fan, P. and Achuthan, T. and Prabhat, P. and Knight, G.
     P. and Myers, J.'
-  conference: IEEE Journal of Solid-State Circuits
+  conference: 2021 IEEE Journal of Solid-State Circuits
   type: JSSC
   abstract: The lower bound on the power expended by an RC relaxation oscillator is
     decided by the RC network. This can be minimized by reducing the oscillation swing
@@ -80,7 +80,7 @@
   authors: '*Prabhat, P. and Labbe, B. and Knight, G. P. and Savanth, A. and Svedas,
     J. and Walker, M. J. and Jeloka, S. and Fan, P. M.-Y. and Garcia-Redondo, F. and
     Achuthan, T. and Myers, J.'
-  conference: IEEE International Solid-State Circuits Conference – Digest of Technical
+  conference: 2020 IEEE International Solid-State Circuits Conference – Digest of Technical
     Papers
   type: ISSCC
   abstract: Recent research has shown subthreshold operation to reduce active energy
@@ -105,7 +105,7 @@
     With Forward-Body Biasing
   authors: '*Fan, P. M.-Y. and Savanth, A. and Labbe, B. and Prabhat, P. and Myers,
     J.'
-  conference: IEEE Solid-State Circuit Letters
+  conference: 2019 IEEE Solid-State Circuit Letters
   type: SSC-L
   abstract: The lower bound on the power expended by an RC relaxation oscillator is
     decided by the RC network. This can be minimized by reducing the oscillation swing
@@ -131,7 +131,7 @@
     Pulse-Width Modulated Integrated Switching Rectifier for Near-Field Wireless Power
     Transfer
   authors: '*Fan, P. M.-Y. and M. H. bin Mohd Daut'
-  conference: IEEE Transactions on Power Electronics
+  conference: 2019 IEEE Transactions on Power Electronics
   type: TPE
   abstract: The pulse-width modulated (PWM) switching rectification that can achieve
     a high power factor (PF) for increasing the energy transfer efficiency between
@@ -158,7 +158,7 @@
   title: A 0.98nW/kHz 33kHz Fully-Integrated Subthreshold-Region Operation RC Oscillator
     With Forward-Body Biasing
   authors: '*Fan, P. and Savanth, A. and Labbe, B. and Prabhat, P. and Myers, J.'
-  conference: IEEE European Solid-State Circuits Conference
+  conference: 2019 IEEE European Solid-State Circuits Conference
   type: ESSCIRC
   abstract: The lower bound on the power expended by an RC relaxation oscillator is
     decided by the RC network. This can be minimized by reducing the oscillation swing
@@ -183,7 +183,7 @@
   title: Thermoelectric Energy Harvesting Interface Circuit with Capacitive Bootstrapping
     Technique for Energy-Efficient IoT Devices
   authors: '*Chen, P.-H. and Su, T.-T. and Fan, P. M.-Y.'
-  conference: IEEE Internet of Things Journal
+  conference: 2018 IEEE Internet of Things Journal
   type: J. IoT
   abstract: This paper presents a low-input-voltage (100 mV), low-output-voltage (500-600
     mV) thermoelectric energy harvesting interface circuit for near-threshold energy-efficient
@@ -208,7 +208,7 @@
   title: High Power Factor Wireless Power Transfer Front-End Circuit For Heterogeneous
     Systems
   authors: '*Fan, P. M.-Y. and Zare-Hoseini, H. and Hasko, D. G. and Nathan, A.'
-  conference: IEEE International Midwest Symposium on Circuits and Systems
+  conference: 2017 IEEE International Midwest Symposium on Circuits and Systems
   type: MWSCAS
   abstract: 'This paper investigates a high power factor switch-based wireless power
     transfer front-end circuit for heterogeneous systems. This circuit uses an integrated
@@ -232,7 +232,7 @@
   title: An 83.4% Peak Efficiency Single-Inductor Multiple-Output Based Adaptive Gate
     Biasing DC-DC Converter for Thermoelectric Energy Harvesting
   authors: '*Chen, P.-H. and Fan, P. M.-Y.'
-  conference: 'IEEE Transactions on Circuits and Systems I: Regular Papers'
+  conference: '2015 IEEE Transactions on Circuits and Systems I: Regular Papers'
   type: TCAS-I
   abstract: This paper presents a 100 mV input, 500 mV output single-inductor multiple-output
     (SIMO) based step-up dc-dc converter with adaptive gate biasing (AGB) technique
@@ -255,7 +255,7 @@
   title: 'Energy Harvesting Techniques: Energy Sources, Power Management and Conversion'
   authors: '*Fan, P. M.-Y. and Wong, O.-Y. and Chung, M.-J. and Su, T.-Y. and Zhang,
     X. and Chen, P.-H.'
-  conference: IEEE European Conference on Circuit Theory and Design
+  conference: 2015 IEEE European Conference on Circuit Theory and Design
   type: ECCTD
   abstract: Energy harvesting techniques have been developed more than a decade and
     received much attention in realizing long-term energy autonomous microsystems.
@@ -274,7 +274,7 @@
   authors: Chiu, W.-S. and Huang, P.-H. and Fan, M.-Y. and *Chen, K.-H. and Wen, K.-A.
     and Tai, Z.-H. and Cheng, Y.-H. and Tsai, C.-C. and Luo, H.-Y. and Wang, S.-M.
     and Chen, L.-D. and Yang, C.-C. and Chen, J.-L.
-  conference: IEEE European Solid-State Circuits Conference
+  conference: 2013 IEEE European Solid-State Circuits Conference
   type: ESSCIRC
   abstract: The embedded fully self-biased switched-capacitor (FSBSC) with single-inductor
     high voltage bipolar-output (SIHBO) converter is proposed to achieve the energy
@@ -298,7 +298,7 @@
   authors: Lee, Y.-H. and Huang, P.-H. and Fan, M.-Y. and Chen, W.-C. and *Chen, K.-H.
     and Liu, S.-F. and Chiu, P.-H. and Chen, S. and Shen, C.-Y. and Hsieh, M.-T. and
     Li, H.-A. and Ho, C.-A. and Chen, C.-J. and Liang, C.-C.
-  conference: SID Symposium Digest of Technical Papers
+  conference: 2012 SID Symposium Digest of Technical Papers
   type: SID
   abstract: The paper-like cholesteric liquid crystal display (Ch-LCD) has become
     the next generation of electronic readers in consuming market. The embedded fully
@@ -321,7 +321,7 @@
     with an Active- Energy-Correlation Control for Driving Cholesteric-LCD
   authors: Lee, Y.-H. and Fan, M.-Y. and Chen, W.-C. and *Chen, K.-H. and Liu, S.-F.
     and Chiu, P.-H. and Chen, S. and Shen, C.-Y. and Hsieh, M.-T. and Li, H.-A.
-  conference: IEEE Custom Integrated Circuits Conference
+  conference: 2011 IEEE Custom Integrated Circuits Conference
   type: CICC
   abstract: A near-zero cross-regulation (near-zero CR) single-inductor bipolar-output
     (SIBO) converter with an adaptive-energy correlation (AEC) control is proposed
@@ -342,7 +342,7 @@
   authors: Chu, K.-Y. and Lee, Y.-H. and Lin, Y.-C. and Fan, M.-Y. and *Chen, K.-H.
     and Liu, S.-F. and Chiu, P.-H. and Chen, S. and Shen, C.-Y. and Hsieh, M.-T. and
     Li, H.-A.
-  conference: SID Symposium Digest of Technical Papers
+  conference: 2011 SID Symposium Digest of Technical Papers
   type: SID
   abstract: Cholesteric liquid-crystal display (Ch-LCD) has the bi-stable characteristic
     to achieve the energy-saving for the green technology. Backlight is even unnecessary
@@ -362,7 +362,7 @@
   title: An LCD Supplied by Highly Integrated Dual-Side Dual-Output Switched-Capacitor
     Regulator with Only Two Flying Capacitors
   authors: Shih, C.-J. and Lee, Y.-H. and Lin, Y.-C. and Fan, M.-Y. and *Chen, K.-H.
-  conference: SID Symposium Digest of Technical Papers
+  conference: 2011 SID Symposium Digest of Technical Papers
   type: SID
   abstract: This paper presents a high integrated dual-side dual-output (DSDO) switched-capacitor
     (SC) regulator with only two flying capacitors. Generally, a dual-phase voltage
@@ -384,7 +384,7 @@
     Photodiode (APD)
   authors: Yang, Y.-Y. and Hsieh, C.-Y. and Huang, T.-C. and Lee, Y.-H. and Wang,
     S.-W. and Fan, M.-Y. and Du, M.-J. and Cheng, S.-H. and *Chen, K.-H.
-  conference: IEEE International Symposium of Circuits and Systems
+  conference: 2011 IEEE International Symposium of Circuits and Systems
   type: ISCAS
   abstract: The Avalanche Photodiodes (APDs) are widely used in a variety of optical
     application requiring high sensitivity, such as long-distance optical communication
@@ -408,7 +408,7 @@
     for Active Matrix OLED
   authors: Chen, W.-C. and Chiu, C.-C. and Hsieh, C.-Y. and Huang, T.-C. and Lee,
     Y.-H. and Yang, Y.-Y. and Shih, C.-J. and Fan, M.-Y. and *Chen, K.-H.
-  conference: IEEE Energy Conversion Congress and Exposition
+  conference: 2011 IEEE Energy Conversion Congress and Exposition
   type: ECCE
   abstract: This paper proposed a single inductor bipolar outputs (SIBO) switching
     converter for the active matrix Organic Light-Emitting Diode (AMOLED). The negative
@@ -432,7 +432,7 @@
   title: A single-inductor multiple positive and negative outputs(SIMPNO) converter
     with a vector current control mode for electronic paper displays(EPDs)
   authors: Lee, Y.-H. and Huang, M.-H. and Tsai, Y.-N. and Fan, M.-Y. and *Chen, K.-H.
-  conference: IEEE European Solid-State Circuits Conference
+  conference: 2010 IEEE European Solid-State Circuits Conference
   type: ESSCIRC
   abstract: A single-inductor multiple positive- and negative-output (SIMPNO) converter
     provides a compact-size and high efficiency solution for electronic paper displays
@@ -450,7 +450,7 @@
   title: A Single-Inductor Multi-Output Converter with Multi-Vector Current Control
     in Power-saving Driving Skill of Electronic Paper Displays (EPDs)
   authors: Huang, M.-H. and Lee, Y.-H. and Fan, M.-Y. and *Chen, K.-H.
-  conference: SID Symposium Digest of Technical Papers
+  conference: 2010 SID Symposium Digest of Technical Papers
   type: SID
   abstract: Electronic paper display (EPD) shows the trend of state-of-the-art display
     technique. It not only holds image/text without consuming energy but also presents
@@ -463,24 +463,3 @@
   pdf: example_pdf.pdf
   html: https://sid.onlinelibrary.wiley.com/doi/abs/10.1889/1.3500460
   doi: doi.org/10.1889/1.3500460
-- key: PhysRev.47.777
-  year: 1935
-  title: Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?
-  authors: Einstein, A. and Podolsky, B. and Rosen, N.
-  conference: Phys. Rev.,
-  type: PhysRev
-  abstract: In a complete theory there is an element corresponding to each element
-    of reality. A sufficient condition for the reality of a physical quantity is the
-    possibility of predicting it with certainty, without disturbing the system. In
-    quantum mechanics in the case of two physical quantities described by non-commuting
-    operators, the knowledge of one precludes the knowledge of the other. Then either
-    (1) the description of reality given by the wave function in quantum mechanics
-    is not complete or (2) these two quantities cannot have simultaneous reality.
-    Consideration of the problem of making predictions concerning a system on the
-    basis of measurements made on another system that had previously interacted with
-    it leads to the result that if (1) is false then (2) is also false. One is thus
-    led to conclude that the description of reality as given by a wave function is
-    not complete.
-  pdf: example_pdf.pdf
-  html: https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777
-  doi: 10.1103/PhysRev.47.777
