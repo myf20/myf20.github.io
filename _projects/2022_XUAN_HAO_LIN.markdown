@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Xuan-Hao Lin
-description: 2022-present
+description: 2022-2026
 img: /assets/img/2022_XUAN_HAO_LIN.jpg
 importance: 1
 category: Alumni
