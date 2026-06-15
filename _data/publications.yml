@@ -1,3 +1,25 @@
+- key: khchen2026jssc
+  year: 2026
+  title: 'A Capacitor-Free Hybrid-Process Low Dropout Regulator with Ultra-High-Gain Amplifier and Super Source Follower for 0.297 mV/A Load Regulation and 0.024 mV/V Line Regulation'
+  authors: 'Y.-T. Huang, X.-Q. Wu, C.-Y. Chen, P.-J. Chiu, C.-W. Cho, T.-W. Wang, K.-H. Chen, Y.-H. Lin, S.-R. Lin, T.-Y. Tsai, S.-H. Hung, C.-F. Huang, P. M.-Y. Fan, T.-J. Liang, H.-H. Tsai'
+  conference: '2026 IEEE Journal of Solid-State Circuits'
+  type: 'JSSC'
+  abstract: ''
+  pdf: example_pdf.pdf
+  html: ''
+  doi: '10.1109/JSSC.2026.3702962'
+
+- key: khchen2025asscc
+  year: 2025
+  title: ''
+  authors: 'Y.-T. Huang, T.-W. Wang, C.-Y. Chen, P.-J. Chiu, K.-H. Chen, P. M.-Y. Fan, T.-J. Liang, H.-H. Tsai'
+  conference: '2025 IEEE Asian Solid-State Circuits Conference'
+  type: 'A-SSCC'
+  abstract: ''
+  pdf: example_pdf.pdf
+  html: 'https://ieeexplore.ieee.org/document/11349378'
+  doi: '10.1109/A-SSCC67472.2025.11349378'
+
 - key: philex2026oj-cas
   year: 2026
   title: 'A Piecewise Linear Model of Loss Estimation for Switched-Inductor Power Management Integrated Circuits'
