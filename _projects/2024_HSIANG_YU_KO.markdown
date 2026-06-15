@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hsiang-Yu Ko
-description: 2024-present
+description: 2024-2025
 img: /assets/img/2024_HSIANG_YU_KO.jpg
 importance: 1
 category: Alumni
