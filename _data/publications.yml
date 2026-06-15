@@ -1,3 +1,14 @@
+- key: khchen2026esscirc
+  year: 2026
+  title: 'Modular Multiphase Voltage Regulator with Cell Stacking and FinFET Stacking Techniques'
+  authors: 'Y.-T. Shih, L.-J. Huang, Y.-H. Lin, J.-W. Chang, K.-H. Chen, S.-Y. Peng, S.-H. Hung, P. M.-Y. Fan'
+  conference: '2026 European Solid-State Circuits Conference'
+  type: 'ESSCIRC'
+  abstract: ''
+  pdf: example_pdf.pdf
+  html: ''
+  doi: ''
+
 - key: khchen2026jssc
   year: 2026
   title: 'A Capacitor-Free Hybrid-Process Low Dropout Regulator with Ultra-High-Gain Amplifier and Super Source Follower for 0.297 mV/A Load Regulation and 0.024 mV/V Line Regulation'
@@ -11,7 +22,7 @@
 
 - key: khchen2025asscc
   year: 2025
-  title: ''
+  title: 'A Capacitor-Free Hybrid-Process LDO with Ultra-High Gain Amplifier and Super Source Follower for 0.297mV/a Load Regulation and 0.024mV/V Line Regulation'
   authors: 'Y.-T. Huang, T.-W. Wang, C.-Y. Chen, P.-J. Chiu, K.-H. Chen, P. M.-Y. Fan, T.-J. Liang, H.-H. Tsai'
   conference: '2025 IEEE Asian Solid-State Circuits Conference'
   type: 'A-SSCC'
