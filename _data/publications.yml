@@ -185,239 +185,124 @@
   pdf: example_pdf.pdf
   html: https://ieeexplore.ieee.org/document/8052955
   doi: 10.1109/MWSCAS.2017.8052955
+
 - key: chen2015tcasi
   year: 2015
-  title: An 83.4% Peak Efficiency Single-Inductor Multiple-Output Based Adaptive Gate
-    Biasing DC-DC Converter for Thermoelectric Energy Harvesting
-  authors: '*Chen, P.-H. and Fan, P. M.-Y.'
+  title: An 83.4% Peak Efficiency Single-Inductor Multiple-Output Based Adaptive Gate Biasing DC-DC Converter for Thermoelectric Energy Harvesting
+  authors: '*P.-H. Chen, and P. M.-Y. Fan'
   conference: '2015 IEEE Transactions on Circuits and Systems I: Regular Papers'
   type: TCAS-I
-  abstract: This paper presents a 100 mV input, 500 mV output single-inductor multiple-output
-    (SIMO) based step-up dc-dc converter with adaptive gate biasing (AGB) technique
-    implemented in 0.18 μm CMOS technology for thermoelectric energy harvesting. The
-    proposed AGB technique and near-threshold voltage (near- VTH) energy redistribution
-    control (ERC) ensure high conversion efficiency over a wide range of load currents.
-    The proposed method automatically reduces conduction and switching losses of power
-    MOSFETs without the need for auxiliary power converters or additional off-chip
-    inductors. The AGB technique reduces conduction and switching losses under heavy-load
-    and light-load conditions, respectively. The experimental results show that the
-    efficiency of the proposed converter is enhanced by 25.5% and 18% at output load
-    currents of 1500 μA and 50 μA, respectively. The proposed step-up dc-dc converter
-    achieves the lowest output voltage and provides the highest conversion efficiency
-    of 83.4% to date in standard CMOS process for thermoelectric energy harvesting.
+  abstract: ‘’
   pdf: example_pdf.pdf
   html: https://ieeexplore.ieee.org/document/6923477?arnumber=6923477
   doi: 10.1109/TCSI.2014.2360765
+
 - key: fan2015ecctd
   year: 2015
   title: 'Energy Harvesting Techniques: Energy Sources, Power Management and Conversion'
-  authors: '*Fan, P. M.-Y. and Wong, O.-Y. and Chung, M.-J. and Su, T.-Y. and Zhang,
-    X. and Chen, P.-H.'
+  authors: '*P. M.-Y. Fan, O.-Y. Wong, M.-J. Chung, T.-Y. Su, X. Zhang and P.-H. Chen'
   conference: 2015 IEEE European Conference on Circuit Theory and Design
   type: ECCTD
-  abstract: Energy harvesting techniques have been developed more than a decade and
-    received much attention in realizing long-term energy autonomous microsystems.
-    Many converter topologies and circuit techniques have been reported to effectively
-    convert the harvested energy to usable outputs. In this paper, major green energy
-    sources as well as the equivalent circuits are reviewed. In addition, maximum
-    power point tracking (MPPT) technique and power conversion topologies are also
-    included.
+  abstract: ''
   pdf: example_pdf.pdf
   html: https://ieeexplore.ieee.org/document/7300104
   doi: 10.1109/ECCTD.2015.7300104
+
 - key: chou2013esscirc
   year: 2013
-  title: Embedded Fully Self-Biased Switched-Capacitor for Energy and Area-Efficient
-    Cholesteric LCD Drivers
-  authors: Chiu, W.-S. and Huang, P.-H. and Fan, M.-Y. and *Chen, K.-H. and Wen, K.-A.
-    and Tai, Z.-H. and Cheng, Y.-H. and Tsai, C.-C. and Luo, H.-Y. and Wang, S.-M.
-    and Chen, L.-D. and Yang, C.-C. and Chen, J.-L.
+  title: Embedded Fully Self-Biased Switched-Capacitor for Energy and Area-Efficient Cholesteric LCD Drivers
+  authors: W.-S. Chiu, P.-H. Huang, M.-Y. Fan, *K.-H. Chen, K.-A. Wen, Z.-H. Tai, Y.-H. Cheng, C.-C. Tsai, H.-Y. Luo, S.-M. Wang, L.-D. Chen, C.-C. Yang and J.-L. Chen
   conference: 2013 IEEE European Solid-State Circuits Conference
   type: ESSCIRC
-  abstract: The embedded fully self-biased switched-capacitor (FSBSC) with single-inductor
-    high voltage bipolar-output (SIHBO) converter is proposed to achieve the energy
-    and area-efficient driving scheme for the paper-like cholesteric liquid crystal
-    display (Ch-LCD), which becomes the next generation of electronic readers in the
-    consumer markets. As the compact power management module, SIHBO converter can
-    provide +/-35V bipolar outputs for row driving. Besides, the embedded FSBSC is
-    utilized to generate the different voltage levels for modulating the gray-color
-    in column driving scheme. This combination carries out the effective driving operation
-    for Ch-LCD through the demand of timing control unit. Experimental results show
-    the achievement of +/-35V output voltage in the SIHBO converter and the variety
-    voltage levels generated from FSBSC. The peak efficiency is up to 84% with the
-    silicon area of 6.53 mm2.
+  abstract: ''
   pdf: example_pdf.pdf
   html: https://ieeexplore.ieee.org/document/6649145
   doi: 10.1109/ESSCIRC.2013.6649145
+
 - key: lee2012sid
   year: 2012
-  title: Energy and Area-Efficient Driving Scheme in Cholesteric LCD by Embedded fully
-    Symmetric Self-Biased Switched-Capacitor
-  authors: Lee, Y.-H. and Huang, P.-H. and Fan, M.-Y. and Chen, W.-C. and *Chen, K.-H.
-    and Liu, S.-F. and Chiu, P.-H. and Chen, S. and Shen, C.-Y. and Hsieh, M.-T. and
-    Li, H.-A. and Ho, C.-A. and Chen, C.-J. and Liang, C.-C.
+  title: Energy and Area-Efficient Driving Scheme in Cholesteric LCD by Embedded fully Symmetric Self-Biased Switched-Capacitor
+  authors: Y.-H. Lee, P.-H. Huang, M.-Y. Fan, W.-C. Chen, *K.-H. Chen, S.-F. Liu, P.-H. Chiu, S. Chen, C.-Y. Shen, M.-T. Hsieh, H.-A. Li, C.-A. Ho, C.-J. Chen and C.-C. Liang
   conference: 2012 SID Symposium Digest of Technical Papers
   type: SID
-  abstract: The paper-like cholesteric liquid crystal display (Ch-LCD) has become
-    the next generation of electronic readers in consuming market. The embedded fully
-    symmetric self-biased switched-capacitor (FSSBSC) with single-inductor high voltage
-    bipolar-output (SIHBO) converter is proposed to achieve the energy and area-efficient
-    driving scheme. As the compact power management module, SIHBO converter can provide
-    +/−35V bipolar outputs for row driving. In addition, the embedded FSSBSC is utilized
-    to generate the different voltage levels for modulating the gray-color in column
-    driving scheme. This combination carries out the effective driving operation for
-    Ch-LCD through the demand of timing control unit. Simulated results show the achievement
-    of +/-35V output voltage in the SIHBO converter and the variety voltage levels
-    generated from FSSBSC. The peak efficiency is derived of 85% with the integrated
-    chip area of 6.53 mm2.
+  abstract: ''
   pdf: example_pdf.pdf
   html: https://sid.onlinelibrary.wiley.com/doi/abs/10.1002/j.2168-0159.2012.tb05849.x
-  doi: doi.org/10.1002/j.2168-0159.2012.tb05849.x
+  doi: 10.1002/j.2168-0159.2012.tb05849.x
+
 - key: lee2011cicc
   year: 2011
-  title: A Near-Zero Cross-Regulation Single-Inductor Bipolar-Output (SIBO) Converter
-    with an Active- Energy-Correlation Control for Driving Cholesteric-LCD
-  authors: Lee, Y.-H. and Fan, M.-Y. and Chen, W.-C. and *Chen, K.-H. and Liu, S.-F.
-    and Chiu, P.-H. and Chen, S. and Shen, C.-Y. and Hsieh, M.-T. and Li, H.-A.
+  title: A Near-Zero Cross-Regulation Single-Inductor Bipolar-Output (SIBO) Converter with an Active- Energy-Correlation Control for Driving Cholesteric-LCD
+  authors: Y.-H. Lee, M.-Y. Fan, W.-C. Chen, *K.-H. Chen, S.-F. Liu, P.-H. Chiu, S. Chen, C.-Y. Shen, M.-T. Hsieh, H.-A. Li
   conference: 2011 IEEE Custom Integrated Circuits Conference
   type: CICC
-  abstract: A near-zero cross-regulation (near-zero CR) single-inductor bipolar-output
-    (SIBO) converter with an adaptive-energy correlation (AEC) control is proposed
-    as a compact power management solution for driving cholesteric-LCD (Ch-LCD). The
-    SIBO converter can provide a pair of positive and negative output voltages with
-    only one external inductor for achieving the polarity reversion operation in Ch-LCD
-    to obtain high-quality displays. The proposed AEC control decides energy distribution
-    for bipolar outputs without any cross regulation through the embedded prediction
-    function. The chip fabricated in a 0.25 μm CMOS process demonstrates near-zero
-    cross-regulation at bipolar outputs with 90% peak power conversion efficiency.
+  abstract: ''
   pdf: example_pdf.pdf
   html: https://ieeexplore.ieee.org/document/6055341
   doi: 10.1109/CICC.2011.6055341
+
 - key: chu2011sid
   year: 2011
-  title: A Single-Inductor Bipolar-Output Converter with Power Conservation Mechanism
-    (PCM) for Driving Cholesteric LCD
-  authors: Chu, K.-Y. and Lee, Y.-H. and Lin, Y.-C. and Fan, M.-Y. and *Chen, K.-H.
-    and Liu, S.-F. and Chiu, P.-H. and Chen, S. and Shen, C.-Y. and Hsieh, M.-T. and
-    Li, H.-A.
+  title: A Single-Inductor Bipolar-Output Converter with Power Conservation Mechanism (PCM) for Driving Cholesteric LCD
+  authors: K.-Y. Chu, Y.-H. Lee, Y.-C. Lin, M.-Y. Fan, *K.-H. Chen, S.-F. Liu, P.-H. Chiu, S. Chen, C.-Y. Shen, M.-T. Hsieh and H.-A. Li
   conference: 2011 SID Symposium Digest of Technical Papers
   type: SID
-  abstract: Cholesteric liquid-crystal display (Ch-LCD) has the bi-stable characteristic
-    to achieve the energy-saving for the green technology. Backlight is even unnecessary
-    in the Ch-LCD system. The single-inductor bipolar-output (SIBO) converter is one
-    of best candidate to supply the power management function for the Ch-LCD with
-    dual positive and negative output voltages by using a single inductor for a compact
-    solution. The energy control methodology with the current-mode control and the
-    power conservation mechanism (PCM) can strengthen the voltage quality to get high
-    display quality. The test chip fabricated by 0.25 μm CMOS technology demonstrates
-    the non-noticeable cross-regulation at dual outputs with 90 % peak power conversion
-    efficiency.
+  abstract: ''
   pdf: example_pdf.pdf
   html: https://sid.onlinelibrary.wiley.com/doi/abs/10.1889/1.3621076
   doi: doi.org/10.1889/1.3621076
+
 - key: shih2011sid
   year: 2011
-  title: An LCD Supplied by Highly Integrated Dual-Side Dual-Output Switched-Capacitor
-    Regulator with Only Two Flying Capacitors
-  authors: Shih, C.-J. and Lee, Y.-H. and Lin, Y.-C. and Fan, M.-Y. and *Chen, K.-H.
+  title: An LCD Supplied by Highly Integrated Dual-Side Dual-Output Switched-Capacitor Regulator with Only Two Flying Capacitors
+  authors: C.-J. Shih, Y.-H. Lee, Y.-C. Lin, M.-Y. Fan and *K.-H. Chen
   conference: 2011 SID Symposium Digest of Technical Papers
   type: SID
-  abstract: This paper presents a high integrated dual-side dual-output (DSDO) switched-capacitor
-    (SC) regulator with only two flying capacitors. Generally, a dual-phase voltage
-    doubler and an inverter are used to supply positive and negative voltage for TFT-LCD
-    gate drivers, respectively. Four flying capacitors, eight pin-outs, and sixteen
-    power switches are necessary for their operations in the driver integrated chip
-    (IC). The proposed DSDO SC regulator combines both dual-phase voltage doubler
-    and inverter converter into one channel through the use of time multiplexing technique
-    at the cost of little performance degradation. As a result, it not only diminishes
-    the number of flying capacitor from four to two but also removes four IC pin-outs
-    for low cost and compact size. Beside, sixteen necessary power switches are reduced
-    to twelve for decreasing about 27% silicon area.
+  abstract: ''
   pdf: example_pdf.pdf
   html: https://sid.onlinelibrary.wiley.com/doi/abs/10.1889/1.3621077
-  doi: doi.org/10.1889/1.3621077
+  doi: 10.1889/1.3621077
+
 - key: yang2011iscas
   year: 2011
-  title: A 80V Output Voltage Boost Converter with Low Voltage Ripple for Avalanche
-    Photodiode (APD)
-  authors: Yang, Y.-Y. and Hsieh, C.-Y. and Huang, T.-C. and Lee, Y.-H. and Wang,
-    S.-W. and Fan, M.-Y. and Du, M.-J. and Cheng, S.-H. and *Chen, K.-H.
+  title: A 80V Output Voltage Boost Converter with Low Voltage Ripple for Avalanche Photodiode (APD)
+  authors: Y.-Y. Yang, C.-Y. Hsieh, T.-C. Huang, Y.-H. Lee, S.-W. Wang, M.-Y. Fan, M.-J. Du, S.-H. Cheng and *K.-H. Chen
   conference: 2011 IEEE International Symposium of Circuits and Systems
   type: ISCAS
-  abstract: The Avalanche Photodiodes (APDs) are widely used in a variety of optical
-    application requiring high sensitivity, such as long-distance optical communication
-    and optical distance measurement, because the APDs can detect the low level light.
-    APDs accompanied with the Transimpedance Amplifier (TIA) are utilized on the receiver
-    side in the communication system. The trend of integrating the active optical
-    components faces the challenge of integrating different voltage levels. In general,
-    the operation voltage of TIA is usually 1.8 V or 3.3 V. However, the APD requires
-    a high reverse-biasing voltage of 40 V 80 V. Therefore, a high conversation-ratio
-    boost converter must be included to provide the high voltage to bias the APD.
-    Besides, output voltage ripple must be minimized to decrease the influence on
-    communication signals. Experimental results show the 80 V output voltage boosted
-    from the input voltage of 2.5 V. The output voltage ripple is 2 mV under the condition
-    of 1 mA load current.
+  abstract: ''
   pdf: example_pdf.pdf
   html: https://ieeexplore.ieee.org/document/5937676
   doi: 10.1109/ISCAS.2011.5937676
+
 - key: chen2011ecce
   year: 2011
-  title: A Single-Inductor Bipolar-Output Converter with 5mV Positive Voltage Ripple
-    for Active Matrix OLED
-  authors: Chen, W.-C. and Chiu, C.-C. and Hsieh, C.-Y. and Huang, T.-C. and Lee,
-    Y.-H. and Yang, Y.-Y. and Shih, C.-J. and Fan, M.-Y. and *Chen, K.-H.
+  title: A Single-Inductor Bipolar-Output Converter with 5mV Positive Voltage Ripple for Active Matrix OLED
+  authors: W.-C. Chen, C.-C. Chiu, C.-Y. Hsieh, T.-C. Huang, Y.-H. Lee, Y.-Y. Yang, C.-J. Shih, M.-Y. Fan and *K.-H. Chen
   conference: 2011 IEEE Energy Conversion Congress and Exposition
   type: ECCE
-  abstract: This paper proposed a single inductor bipolar outputs (SIBO) switching
-    converter for the active matrix Organic Light-Emitting Diode (AMOLED). The negative
-    voltage is generated by the inverting buck-boost converter, which is regulated
-    by the high signal-to-noise ratio comparator. Moreover, the boost converter is
-    utilized to provide the positive output voltage. The proposed switching converter
-    uses the switch sequential to reduce the positive voltage ripple to about 5 mV
-    with the proportional-integral (PI) compensator to guarantee good line and load-regulation.
-    Simulation results show the positive output voltage is regulated to 5 V and the
-    negative output voltage is -7 V for driving the AMOLED. When the load current
-    is 25 mA and the ESR is 30 mΩ, the output voltage ripples are equal to 5 mV and
-    11 mV for positive and negative voltages, respectively. Besides, the load and
-    line regulations of positive output voltage are 0.24 mV/mA and 5 mV/V, respectively.
-    The maximum efficiency is 88.5% when the input voltage is 4.5 V and the load current
-    is 50 mA.
+  abstract: ''
   pdf: example_pdf.pdf
   html: https://ieeexplore.ieee.org/document/6064204
   doi: 10.1109/ECCE.2011.6064204
+
 - key: lee2010esscirc
   year: 2010
-  title: A single-inductor multiple positive and negative outputs(SIMPNO) converter
-    with a vector current control mode for electronic paper displays(EPDs)
-  authors: Lee, Y.-H. and Huang, M.-H. and Tsai, Y.-N. and Fan, M.-Y. and *Chen, K.-H.
+  title: A single-inductor multiple positive and negative outputs(SIMPNO) converter with a vector current control mode for electronic paper displays(EPDs)
+  authors: Y.-H. Lee, M.-H. Huang, Y.-N. Tsai, M.-Y. Fan and *K.-H. Chen
   conference: 2010 IEEE European Solid-State Circuits Conference
   type: ESSCIRC
-  abstract: A single-inductor multiple positive- and negative-output (SIMPNO) converter
-    provides a compact-size and high efficiency solution for electronic paper displays
-    (EPDs) system. With the single inductor multiple output structure, an adaptive
-    current control methodology with the proposed vector current control mode (VCCM)
-    can wisely minimize the current tolerance to be smaller than 10% between input
-    and all outputs. Additionally, owing to the VCCM technique for adequate inductor
-    current control, the cross regulation is smaller than 0.35 V/A. The test chip
-    was fabricated by 0.25 μm BCD process with a peak value of 90% at heavy loads.
+  abstract: ''
   pdf: example_pdf.pdf
   html: https://ieeexplore.ieee.org/document/5619739
   doi: 10.1109/ESSCIRC.2010.5619739
+
 - key: huang2010sid
   year: 2010
-  title: A Single-Inductor Multi-Output Converter with Multi-Vector Current Control
-    in Power-saving Driving Skill of Electronic Paper Displays (EPDs)
-  authors: Huang, M.-H. and Lee, Y.-H. and Fan, M.-Y. and *Chen, K.-H.
+  title: A Single-Inductor Multi-Output Converter with Multi-Vector Current Control in Power-saving Driving Skill of Electronic Paper Displays (EPDs)
+  authors: M.-H. Huang, and Y.-H. Lee, M.-Y. Fan and *K.-H. Chen
   conference: 2010 SID Symposium Digest of Technical Papers
   type: SID
-  abstract: Electronic paper display (EPD) shows the trend of state-of-the-art display
-    technique. It not only holds image/text without consuming energy but also presents
-    thin and flexibility like ordinary paper. Single-inductor multi-output (SIMO)
-    converter, with innovative multi-vector current-control methodology, precisely
-    tracks and quantifies the actual demanded-energy and addresses excessive-energy
-    for power-efficient and space-minimized requirements of EPDs. The testing chip
-    occupies 0.45 mm2 in 0.25 μm CMOS technology and achieves the power conversion
-    efficiency larger than 85 % at the order of 0.5 m W output power.
+  abstract: ''
   pdf: example_pdf.pdf
   html: https://sid.onlinelibrary.wiley.com/doi/abs/10.1889/1.3500460
-  doi: doi.org/10.1889/1.3500460
+  doi: 10.1889/1.3500460
