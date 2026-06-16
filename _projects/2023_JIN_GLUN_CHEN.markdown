@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jin-Glun Chen
+title: Jing-Lun Chen
 description: 2023-2026
 img: /assets/img/2023_JIN_GLUN_CHEN.jpg
 importance: 1
