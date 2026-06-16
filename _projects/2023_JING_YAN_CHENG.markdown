@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Huan-Wei Chang
-description: 2026-present
-img: /assets/img/2025_HUAN_WEI_CHANG.jpg
+title: Jing-Yan Cheng
+description: 2023-present
+img: /assets/img/2023_JING_YAN_CHENG.jpg
 importance: 1
 category: Current Master student
 ---
@@ -15,7 +15,7 @@ category: Current Master student
 
 
 <a href="#"> Name: </a> 
-Huan-Wei Chang 張桓維
+Jing-Yan Cheng 鄭敬嚴
 
 <a href="#"> Contact Information: </a>
 
@@ -23,4 +23,4 @@ Huan-Wei Chang 張桓維
 
 <a href="#"> Research Interest: </a>
 
-Phase-Locked-Loops
+Computing-in-memory Number Theory Transform (NTT) for FHE

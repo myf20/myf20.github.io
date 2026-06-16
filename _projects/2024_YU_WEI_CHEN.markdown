@@ -23,4 +23,4 @@ Yu-Wei Chen 陳昱瑋
 
 <a href="#"> Research Interest: </a>
 
-NTT CIM
+Computing-in-memory Number Theory Transform (NTT) for FHE
