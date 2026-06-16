@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yi-Fu Chen
+title: Yi-Fu Chen, First job at Richtek
 description: 2021-2024
 img: /assets/img/2021_YI_FU_CHEN.jpg
 importance: 1

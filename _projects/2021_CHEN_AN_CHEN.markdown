@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chen-An Chen
+title: Chen-An Chen, First job at MXIC
 description: 2021-2023
 img: /assets/img/2021_CHEN_AN_CHEN.jpg
 importance: 1

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hsiang-Yu Ko
+title: Hsiang-Yu Ko, pursuing US master degree
 description: 2024-2025
 img: /assets/img/2024_HSIANG_YU_KO.jpg
 importance: 1

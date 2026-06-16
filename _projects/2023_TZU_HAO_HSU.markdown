@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tzu-Hao Hsu
+title: Tzu-Hao Hsu, First job at Novatek
 description: 2023-2025
 img: /assets/img/2023_TZU_HAO_HSU.jpg
 importance: 1

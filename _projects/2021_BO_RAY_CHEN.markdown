@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bo-Ray Chen
-description: 2021-2023
+description: 2021-2024, First job at Novatek
 img: /assets/img/2021_BO_RAY_CHEN.jpg
 importance: 1
 category: Alumni

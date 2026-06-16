@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Young Lee
+title: Young Lee, First job at Mediatek
 description: 2023-present
 img: /assets/img/2023_YOUNG_LEE.jpg
 importance: 1

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shih-Ruei Ma
+title: Shih-Ruei Ma, First job at MXIC
 description: 2022-2026
 img: /assets/img/2022_SHIH_RUEI_MA.jpg
 importance: 1

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ming-Feng Yang
+title: Ming-Feng Yang, First job at Leadtrend
 description: 2022-2024
 img: /assets/img/2022_MING_FENG_YANG.jpg
 importance: 1

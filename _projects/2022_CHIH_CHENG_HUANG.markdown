@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chih-Cheng Huang
+title: Chih-Cheng Huang, First job at Novatek
 description: 2022-2025
 img: /assets/img/2022_CHIH_CHENG_HUANG.jpg
 importance: 1
