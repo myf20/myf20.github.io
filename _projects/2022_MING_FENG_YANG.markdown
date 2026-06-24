@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ming-Feng Yang, First job at Leadtrend
-description: 2022-2024
+title: Ming-Feng Yang
+description: 2022-2024, First job at Leadtrend
 img: /assets/img/2022_MING_FENG_YANG.jpg
 importance: 1
 category: Alumni

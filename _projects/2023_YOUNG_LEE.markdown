@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Young Lee, First job at Mediatek
-description: 2023-present
+title: Young Lee
+description: 2023-2026, First job at Mediatek
 img: /assets/img/2023_YOUNG_LEE.jpg
 importance: 1
-category: Current Master student
+category: Alumni
 ---
 
 <div class="row">

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Chih-Yen Chang, First job at Novatek
-description: 2021-2025
+title: Chih-Yen Chang
+description: 2021-2025, First job at Novatek
 img: /assets/img/2021_CHIH_YEN_CHANG.jpg
 importance: 1
 category: Alumni

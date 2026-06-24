@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Chih-Cheng Huang, First job at Novatek
-description: 2022-2025
+title: Chih-Cheng Huang
+description: 2022-2025, First job at Novatek
 img: /assets/img/2022_CHIH_CHENG_HUANG.jpg
 importance: 1
 category: Alumni

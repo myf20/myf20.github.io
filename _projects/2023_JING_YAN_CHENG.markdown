@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jing-Yan Cheng
-description: 2023-present
+description: 2023-present, First job at TSMC
 img: /assets/img/2023_JING_YAN_CHENG.jpg
 importance: 1
 category: Current Master student

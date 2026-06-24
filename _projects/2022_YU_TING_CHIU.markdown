@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Yu-Ting Chiu, First job at TSMC
-description: 2022-2024
+title: Yu-Ting Chiu
+description: 2022-2024, First job at TSMC
 img: /assets/img/2022_YU_TING_CHIU.jpg
 importance: 1
 category: Alumni

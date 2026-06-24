@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Chao-Shan Tsou, First job at TSMC
-description: 2023-present
+title: Chao-Shan Tsou
+description: 2023-present, First job at TSMC
 img: /assets/img/2023_CHAO_SHAN_TSOU.jpg
 importance: 1
 category: Current Master student

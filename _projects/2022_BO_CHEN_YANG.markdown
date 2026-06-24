@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bo-Chen Yang, First job at TSMC
-description: 2022-2026
+title: Bo-Chen Yang
+description: 2022-2025, First job at TSMC
 img: /assets/img/2022_BO_CHEN_YANG.jpg
 importance: 1
 category: Alumni

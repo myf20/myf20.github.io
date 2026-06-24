@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Kun-Han Chan, First job at Novatek
-description: 2022-2024
+title: Kun-Han Chan
+description: 2022-2024, First job at Novatek
 img: /assets/img/2022_KUN_HAN_CHAN.jpg
 importance: 1
 category: Alumni

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Wei-Ting Lin, First job at Analog Device Inc.
-description: 2021-2024
+title: Wei-Ting Lin
+description: 2021-2024, First job at Analog Device Inc.
 img: /assets/img/2021_WEI_TING_LIN.jpg
 importance: 1
 category: Alumni

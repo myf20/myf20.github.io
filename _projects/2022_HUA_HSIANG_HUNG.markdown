@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hua-Hsiang Hung, First job at Mediatek
-description: 2022-2025
+title: Hua-Hsiang Hung
+description: 2022-2025, First job at Mediatek
 img: /assets/img/2022_HUA_HSIANG_HUNG.jpg
 importance: 1
 category: Alumni
